@@ -156,6 +156,16 @@ function toMetaRounds(rounds) {
   }))
 }
 
+function buildConversationAwareQuestion(question, history = []) {
+  const recentHistory = history
+    .slice(-6)
+    .map((item) => `${item.role === 'assistant' ? '助手' : '用户'}：${item.content}`)
+    .join('\n')
+
+  if (!recentHistory) return question
+  return `最近对话：\n${recentHistory}\n\n当前问题：${question}`
+}
+
 export async function searchAgent(question) {
   const retrieval = await retrieveKnowledge(question)
   return {
@@ -170,9 +180,10 @@ export async function searchAgent(question) {
   }
 }
 
-export async function askAgent({ question }) {
+export async function askAgent({ question, sessionId = '', history = [] }) {
   const config = getConfig()
-  const retrieval = await retrieveKnowledge(question)
+  const retrievalQuestion = buildConversationAwareQuestion(question, history)
+  const retrieval = await retrieveKnowledge(retrievalQuestion)
   const llmSources = toLlmSources(retrieval.rankedResults)
   let answer = ''
   let answerMode = 'fallback-extractive'
@@ -180,7 +191,7 @@ export async function askAgent({ question }) {
 
   if (config.useLlm && retrieval.knowledgeHit && llmSources.length > 0) {
     try {
-      answer = await synthesizeAnswer({ question, sources: llmSources })
+      answer = await synthesizeAnswer({ question, sources: llmSources, history })
       answerMode = 'agent-llm-synthesis'
     } catch (error) {
       llmError = error instanceof Error ? error.message : String(error)
@@ -189,7 +200,7 @@ export async function askAgent({ question }) {
 
   if (!answer && config.useLlm && !retrieval.knowledgeHit) {
     try {
-      answer = await answerWithoutSources(question)
+      answer = await answerWithoutSources(question, history)
       answerMode = 'llm-self-answer-fallback'
     } catch (error) {
       llmError = error instanceof Error ? error.message : String(error)
@@ -208,6 +219,8 @@ export async function askAgent({ question }) {
       provider: 'sage-wiki',
       retrievalMode: 'llm-planned-bm25',
       answerMode,
+      sessionId,
+      historyUsed: history.length > 0,
       retrievalRounds: toMetaRounds(retrieval.rounds),
       knowledgeHit: retrieval.knowledgeHit,
       llmError,

@@ -65,6 +65,10 @@ const lunarDate = computed(() => formatLunarDate(new Date()))
         <span>{{ lunarDate.year }}</span>
         <span>{{ lunarDate.date }}</span>
       </div>
+      <RouterLink class="home-graph-entry" :to="{ name: 'wiki-graph' }" aria-label="打开戏曲知识图谱">
+        <span>知识图谱</span>
+        <small>探索剧种、行当与舞台元素</small>
+      </RouterLink>
     </section>
   </main>
 </template>

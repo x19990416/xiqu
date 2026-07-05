@@ -5,6 +5,7 @@ import OperaView from '../views/OperaView.vue'
 import ProfileView from '../views/ProfileView.vue'
 import StageView from '../views/StageView.vue'
 import TicketView from '../views/TicketView.vue'
+import WikiGraphView from '../views/WikiGraphView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -39,6 +40,14 @@ const router = createRouter({
       component: StageView,
       meta: {
         title: '戏台 - 戏曲',
+      },
+    },
+    {
+      path: '/wiki-graph',
+      name: 'wiki-graph',
+      component: WikiGraphView,
+      meta: {
+        title: '知识图谱 - 戏曲',
       },
     },
     {

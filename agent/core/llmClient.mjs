@@ -62,6 +62,13 @@ function buildContextBlock(sources) {
     .join('\n\n')
 }
 
+function buildHistoryBlock(history = []) {
+  return history
+    .slice(-8)
+    .map((item) => `${item.role === 'assistant' ? '助手' : '用户'}：${item.content}`)
+    .join('\n')
+}
+
 export async function planRetrievalQueries(question) {
   const config = getConfig()
   if (!config.useLlm) {
@@ -118,8 +125,9 @@ export async function replanRetrievalQueries({ question, previousRounds }) {
   }
 }
 
-export async function synthesizeAnswer({ question, sources }) {
+export async function synthesizeAnswer({ question, sources, history = [] }) {
   const context = buildContextBlock(sources.slice(0, 5))
+  const historyBlock = buildHistoryBlock(history)
   return chatCompletion([
     {
       role: 'system',
@@ -127,12 +135,13 @@ export async function synthesizeAnswer({ question, sources }) {
     },
     {
       role: 'user',
-      content: `用户问题：${question}\n\n检索到的知识库资料：\n${context}\n\n请综合这些资料作答，并在关键事实后用【资料1】这类形式标注来源。`,
+      content: `${historyBlock ? `最近对话历史：\n${historyBlock}\n\n` : ''}用户当前问题：${question}\n\n检索到的知识库资料：\n${context}\n\n请结合最近对话历史理解指代关系，但事实依据优先来自知识库资料。请综合作答，并在关键事实后用【资料1】这类形式标注来源。`,
     },
   ])
 }
 
-export async function answerWithoutSources(question) {
+export async function answerWithoutSources(question, history = []) {
+  const historyBlock = buildHistoryBlock(history)
   return chatCompletion([
     {
       role: 'system',
@@ -140,7 +149,7 @@ export async function answerWithoutSources(question) {
     },
     {
       role: 'user',
-      content: question,
+      content: `${historyBlock ? `最近对话历史：\n${historyBlock}\n\n` : ''}用户当前问题：${question}`,
     },
   ])
 }

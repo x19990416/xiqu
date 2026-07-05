@@ -1,0 +1,4824 @@
+{
+  "source": "wiki/xiqu-knowledge/wiki/concepts",
+  "nodes": [
+    {
+      "id": "peking-opera",
+      "label": "京剧",
+      "title": "peking-opera",
+      "aliases": [
+        "jingju",
+        "Peking Opera",
+        "京剧",
+        "Jingju"
+      ],
+      "path": "wiki/concepts/peking-opera.md",
+      "degree": 99
+    },
+    {
+      "id": "kunqu-opera",
+      "label": "昆剧",
+      "title": "kunqu-opera",
+      "aliases": [
+        "Kunqu Opera",
+        "昆剧",
+        "昆曲",
+        "Kunqu",
+        "kunqu",
+        "kunju"
+      ],
+      "path": "wiki/concepts/kunqu-opera.md",
+      "degree": 45
+    },
+    {
+      "id": "water-sleeves",
+      "label": "水袖",
+      "title": "water-sleeves",
+      "aliases": [
+        "shuixiu",
+        "shui xiu",
+        "水袖"
+      ],
+      "path": "wiki/concepts/water-sleeves.md",
+      "degree": 29
+    },
+    {
+      "id": "stage-lighting",
+      "label": "灯光运用",
+      "title": "stage-lighting",
+      "aliases": [
+        "灯光运用",
+        "lighting design",
+        "stage lighting design",
+        "lighting usage",
+        "spotlight"
+      ],
+      "path": "wiki/concepts/stage-lighting.md",
+      "degree": 28
+    },
+    {
+      "id": "wusheng",
+      "label": "武生",
+      "title": "wusheng",
+      "aliases": [
+        "martial male",
+        "武生",
+        "martial male role"
+      ],
+      "path": "wiki/concepts/wusheng.md",
+      "degree": 26
+    },
+    {
+      "id": "jing",
+      "label": "净",
+      "title": "jing",
+      "aliases": [
+        "painted face",
+        "net",
+        "净",
+        "painted face role",
+        "painted face male role"
+      ],
+      "path": "wiki/concepts/jing.md",
+      "degree": 23
+    },
+    {
+      "id": "huangmei-opera",
+      "label": "黄梅戏",
+      "title": "huangmei-opera",
+      "aliases": [
+        "Huangmei Opera",
+        "黄梅戏",
+        "Huangmei"
+      ],
+      "path": "wiki/concepts/huangmei-opera.md",
+      "degree": 22
+    },
+    {
+      "id": "yue-opera",
+      "label": "越剧",
+      "title": "yue-opera",
+      "aliases": [
+        "yueju",
+        "越剧",
+        "Shaoxing Opera",
+        "Yueju"
+      ],
+      "path": "wiki/concepts/yue-opera.md",
+      "degree": 20
+    },
+    {
+      "id": "huadan",
+      "label": "花旦",
+      "title": "huadan",
+      "aliases": [
+        "lively young female",
+        "花旦",
+        "lively young female role",
+        "young female role",
+        "hua dan",
+        "lively female role",
+        "flower dan"
+      ],
+      "path": "wiki/concepts/huadan.md",
+      "degree": 19
+    },
+    {
+      "id": "lianpu",
+      "label": "脸谱",
+      "title": "lianpu",
+      "aliases": [
+        "face paint",
+        "facial makeup",
+        "脸谱",
+        "face painting",
+        "face mask",
+        "face masks",
+        "painted face makeup",
+        "Chinese opera face mask"
+      ],
+      "path": "wiki/concepts/lianpu.md",
+      "degree": 19
+    },
+    {
+      "id": "opera-intelligent-agent",
+      "label": "戏曲智能体",
+      "title": "opera-intelligent-agent",
+      "aliases": [
+        "戏曲智能体",
+        "2026大创项目"
+      ],
+      "path": "wiki/concepts/opera-intelligent-agent.md",
+      "degree": 19
+    },
+    {
+      "id": "xiaosheng",
+      "label": "小生",
+      "title": "xiaosheng",
+      "aliases": [
+        "young male",
+        "小生",
+        "young male role",
+        "young male scholar role"
+      ],
+      "path": "wiki/concepts/xiaosheng.md",
+      "degree": 17
+    },
+    {
+      "id": "diancui",
+      "label": "点翠",
+      "title": "diancui",
+      "aliases": [
+        "kingfisher feather art",
+        "点翠",
+        "kingfisher feather headdress"
+      ],
+      "path": "wiki/concepts/diancui.md",
+      "degree": 16
+    },
+    {
+      "id": "chou",
+      "label": "丑",
+      "title": "chou",
+      "aliases": [
+        "clown",
+        "丑"
+      ],
+      "path": "wiki/concepts/chou.md",
+      "degree": 15
+    },
+    {
+      "id": "sheng",
+      "label": "生",
+      "title": "sheng",
+      "aliases": [
+        "male role",
+        "生"
+      ],
+      "path": "wiki/concepts/sheng.md",
+      "degree": 15
+    },
+    {
+      "id": "daomadan",
+      "label": "刀马旦",
+      "title": "daomadan",
+      "aliases": [
+        "sword and horse female",
+        "martial female role",
+        "刀马旦"
+      ],
+      "path": "wiki/concepts/daomadan.md",
+      "degree": 14
+    },
+    {
+      "id": "kao",
+      "label": "靠",
+      "title": "kao",
+      "aliases": [
+        "hard armor",
+        "ceremonial armor",
+        "military armor",
+        "靠",
+        "traditional armor",
+        "opera armor",
+        "hard armor suit",
+        "armor"
+      ],
+      "path": "wiki/concepts/kao.md",
+      "degree": 14
+    },
+    {
+      "id": "laosheng",
+      "label": "老生",
+      "title": "laosheng",
+      "aliases": [
+        "old male",
+        "老生",
+        "older male role",
+        "old male role"
+      ],
+      "path": "wiki/concepts/laosheng.md",
+      "degree": 14
+    },
+    {
+      "id": "scenography",
+      "label": "舞台置景",
+      "title": "scenography",
+      "aliases": [
+        "stage design",
+        "舞台置景",
+        "stage set",
+        "set design"
+      ],
+      "path": "wiki/concepts/scenography.md",
+      "degree": 14
+    },
+    {
+      "id": "wuchou",
+      "label": "武丑",
+      "title": "wuchou",
+      "aliases": [
+        "martial clown",
+        "武丑"
+      ],
+      "path": "wiki/concepts/wuchou.md",
+      "degree": 13
+    },
+    {
+      "id": "yueju",
+      "label": "越剧",
+      "title": "yueju",
+      "aliases": [
+        "shaoxing opera",
+        "越剧"
+      ],
+      "path": "wiki/concepts/yueju.md",
+      "degree": 13
+    },
+    {
+      "id": "hangdang",
+      "label": "行当",
+      "title": "hangdang",
+      "aliases": [
+        "role types",
+        "行当"
+      ],
+      "path": "wiki/concepts/hangdang.md",
+      "degree": 12
+    },
+    {
+      "id": "dan-role",
+      "label": "旦",
+      "title": "dan-role",
+      "aliases": [
+        "dan",
+        "female role",
+        "旦",
+        "dan xing",
+        "Dan"
+      ],
+      "path": "wiki/concepts/dan-role.md",
+      "degree": 11
+    },
+    {
+      "id": "dan",
+      "label": "旦",
+      "title": "dan",
+      "aliases": [
+        "female role",
+        "旦"
+      ],
+      "path": "wiki/concepts/dan.md",
+      "degree": 11
+    },
+    {
+      "id": "lingzi",
+      "label": "翎子",
+      "title": "lingzi",
+      "aliases": [
+        "pheasant feathers",
+        "pheasant tail feathers",
+        "翎子"
+      ],
+      "path": "wiki/concepts/lingzi.md",
+      "degree": 11
+    },
+    {
+      "id": "the-peony-pavilion",
+      "label": "牡丹亭",
+      "title": "the-peony-pavilion",
+      "aliases": [
+        "Mudan Ting",
+        "牡丹亭",
+        "mudan ting"
+      ],
+      "path": "wiki/concepts/the-peony-pavilion.md",
+      "degree": 11
+    },
+    {
+      "id": "wudan",
+      "label": "wudan",
+      "title": "wudan",
+      "aliases": [
+        "martial female"
+      ],
+      "path": "wiki/concepts/wudan.md",
+      "degree": 11
+    },
+    {
+      "id": "laodan",
+      "label": "老旦",
+      "title": "laodan",
+      "aliases": [
+        "old female role",
+        "老旦"
+      ],
+      "path": "wiki/concepts/laodan.md",
+      "degree": 10
+    },
+    {
+      "id": "mangpao",
+      "label": "蟒袍",
+      "title": "mangpao",
+      "aliases": [
+        "蟒袍",
+        "python robe",
+        "mang"
+      ],
+      "path": "wiki/concepts/mangpao.md",
+      "degree": 10
+    },
+    {
+      "id": "xue-pinggui",
+      "label": "薛平贵",
+      "title": "xue-pinggui",
+      "aliases": [
+        "Xue Pinggui",
+        "薛平贵"
+      ],
+      "path": "wiki/concepts/xue-pinggui.md",
+      "degree": 10
+    },
+    {
+      "id": "rankou",
+      "label": "髯口",
+      "title": "rankou",
+      "aliases": [
+        "髯口",
+        "artificial beard",
+        "ran kou",
+        "opera beard"
+      ],
+      "path": "wiki/concepts/rankou.md",
+      "degree": 9
+    },
+    {
+      "id": "sheng-role",
+      "label": "生",
+      "title": "sheng-role",
+      "aliases": [
+        "sheng",
+        "male role",
+        "生",
+        "sheng xing"
+      ],
+      "path": "wiki/concepts/sheng-role.md",
+      "degree": 9
+    },
+    {
+      "id": "projection-mapping",
+      "label": "projection-mapping",
+      "title": "projection-mapping",
+      "aliases": [],
+      "path": "wiki/concepts/projection-mapping.md",
+      "degree": 9
+    },
+    {
+      "id": "wang-baochuan",
+      "label": "王宝钏",
+      "title": "wang-baochuan",
+      "aliases": [
+        "Wang Baochuan",
+        "王宝钏",
+        "Wang Baoxun"
+      ],
+      "path": "wiki/concepts/wang-baochuan.md",
+      "degree": 8
+    },
+    {
+      "id": "guangxi-opera",
+      "label": "guangxi-opera",
+      "title": "guangxi-opera",
+      "aliases": [
+        "guiju"
+      ],
+      "path": "wiki/concepts/guangxi-opera.md",
+      "degree": 8
+    },
+    {
+      "id": "romance-of-the-three-kingdoms",
+      "label": "romance-of-the-three-kingdoms",
+      "title": "romance-of-the-three-kingdoms",
+      "aliases": [],
+      "path": "wiki/concepts/romance-of-the-three-kingdoms.md",
+      "degree": 8
+    },
+    {
+      "id": "zhezixi",
+      "label": "zhezixi",
+      "title": "zhezixi",
+      "aliases": [
+        "excerpt",
+        "highlight play"
+      ],
+      "path": "wiki/concepts/zhezixi.md",
+      "degree": 8
+    },
+    {
+      "id": "toumian",
+      "label": "头面",
+      "title": "toumian",
+      "aliases": [
+        "headdress",
+        "头面",
+        "headpiece",
+        "head ornaments",
+        "headgear"
+      ],
+      "path": "wiki/concepts/toumian.md",
+      "degree": 7
+    },
+    {
+      "id": "xiaohualian",
+      "label": "小花脸",
+      "title": "xiaohualian",
+      "aliases": [
+        "small painted face",
+        "小花脸"
+      ],
+      "path": "wiki/concepts/xiaohualian.md",
+      "degree": 7
+    },
+    {
+      "id": "junban",
+      "label": "junban",
+      "title": "junban",
+      "aliases": [
+        "handsome face"
+      ],
+      "path": "wiki/concepts/junban.md",
+      "degree": 7
+    },
+    {
+      "id": "lighting-design",
+      "label": "灯光设计",
+      "title": "lighting-design",
+      "aliases": [
+        "stage lighting",
+        "灯光设计"
+      ],
+      "path": "wiki/concepts/lighting-design.md",
+      "degree": 6
+    },
+    {
+      "id": "jing-role",
+      "label": "净行",
+      "title": "jing-role",
+      "aliases": [
+        "jing",
+        "painted face",
+        "net",
+        "净行",
+        "净",
+        "painted face role",
+        "jing xing"
+      ],
+      "path": "wiki/concepts/jing-role.md",
+      "degree": 6
+    },
+    {
+      "id": "kaoqi",
+      "label": "靠旗",
+      "title": "kaoqi",
+      "aliases": [
+        "back flags",
+        "靠旗",
+        "armor flags"
+      ],
+      "path": "wiki/concepts/kaoqi.md",
+      "degree": 6
+    },
+    {
+      "id": "lao-sheng",
+      "label": "老生",
+      "title": "lao-sheng",
+      "aliases": [
+        "old male role",
+        "older male role",
+        "dignified older male",
+        "老生"
+      ],
+      "path": "wiki/concepts/lao-sheng.md",
+      "degree": 6
+    },
+    {
+      "id": "qing-yi",
+      "label": "青衣",
+      "title": "qing-yi",
+      "aliases": [
+        "青衣",
+        "virtuous female role"
+      ],
+      "path": "wiki/concepts/qing-yi.md",
+      "degree": 6
+    },
+    {
+      "id": "shi-yu-zhuo",
+      "label": "拾玉镯",
+      "title": "shi-yu-zhuo",
+      "aliases": [
+        "picking up the jade bracelet",
+        "拾玉镯",
+        "Picking Up the Jade Bracelet"
+      ],
+      "path": "wiki/concepts/shi-yu-zhuo.md",
+      "degree": 6
+    },
+    {
+      "id": "shuixiu",
+      "label": "水袖",
+      "title": "shuixiu",
+      "aliases": [
+        "water sleeves",
+        "水袖"
+      ],
+      "path": "wiki/concepts/shuixiu.md",
+      "degree": 6
+    },
+    {
+      "id": "the-peach-blossom-fan",
+      "label": "桃花扇",
+      "title": "the-peach-blossom-fan",
+      "aliases": [
+        "Taohua Shan",
+        "桃花扇",
+        "taohua shan"
+      ],
+      "path": "wiki/concepts/the-peach-blossom-fan.md",
+      "degree": 6
+    },
+    {
+      "id": "cantonese-opera",
+      "label": "粤剧",
+      "title": "cantonese-opera",
+      "aliases": [
+        "Cantonese Opera",
+        "粤剧",
+        "Yueju",
+        "yueju"
+      ],
+      "path": "wiki/concepts/cantonese-opera.md",
+      "degree": 6
+    },
+    {
+      "id": "xuezi",
+      "label": "褶子",
+      "title": "xuezi",
+      "aliases": [
+        "martial robe",
+        "褶子",
+        "scholar's robe",
+        "scholar robe",
+        "official garment"
+      ],
+      "path": "wiki/concepts/xuezi.md",
+      "degree": 6
+    },
+    {
+      "id": "zhou-zhengping",
+      "label": "周正平",
+      "title": "zhou-zhengping",
+      "aliases": [
+        "Zhou Zhengping",
+        "周正平"
+      ],
+      "path": "wiki/concepts/zhou-zhengping.md",
+      "degree": 6
+    },
+    {
+      "id": "cai-dan",
+      "label": "cai-dan",
+      "title": "cai-dan",
+      "aliases": [],
+      "path": "wiki/concepts/cai-dan.md",
+      "degree": 6
+    },
+    {
+      "id": "gong-jin-pao",
+      "label": "gong-jin-pao",
+      "title": "gong-jin-pao",
+      "aliases": [
+        "the palace brocade robe",
+        "palace brocade robe"
+      ],
+      "path": "wiki/concepts/gong-jin-pao.md",
+      "degree": 6
+    },
+    {
+      "id": "liang-shanbo",
+      "label": "liang-shanbo",
+      "title": "liang-shanbo",
+      "aliases": [],
+      "path": "wiki/concepts/liang-shanbo.md",
+      "degree": 6
+    },
+    {
+      "id": "shanshui",
+      "label": "shanshui",
+      "title": "shanshui",
+      "aliases": [
+        "ink wash painting",
+        "landscape painting"
+      ],
+      "path": "wiki/concepts/shanshui.md",
+      "degree": 6
+    },
+    {
+      "id": "red-cliff",
+      "label": "赤壁",
+      "title": "red-cliff",
+      "aliases": [
+        "赤壁",
+        "Chibi"
+      ],
+      "path": "wiki/concepts/red-cliff.md",
+      "degree": 5
+    },
+    {
+      "id": "da-deng-dian",
+      "label": "大登殿",
+      "title": "da-deng-dian",
+      "aliases": [
+        "The Grand Hall",
+        "大登殿"
+      ],
+      "path": "wiki/concepts/da-deng-dian.md",
+      "degree": 5
+    },
+    {
+      "id": "stage-lighting-design",
+      "label": "灯光运用",
+      "title": "stage-lighting-design",
+      "aliases": [
+        "lighting design",
+        "灯光运用"
+      ],
+      "path": "wiki/concepts/stage-lighting-design.md",
+      "degree": 5
+    },
+    {
+      "id": "doufu-kuai",
+      "label": "豆腐块",
+      "title": "doufu-kuai",
+      "aliases": [
+        "tofu block",
+        "豆腐块"
+      ],
+      "path": "wiki/concepts/doufu-kuai.md",
+      "degree": 5
+    },
+    {
+      "id": "du-liniang",
+      "label": "杜丽娘",
+      "title": "du-liniang",
+      "aliases": [
+        "杜丽娘"
+      ],
+      "path": "wiki/concepts/du-liniang.md",
+      "degree": 5
+    },
+    {
+      "id": "feng-suzhen",
+      "label": "冯素珍",
+      "title": "feng-suzhen",
+      "aliases": [
+        "Feng Suzhen",
+        "冯素珍"
+      ],
+      "path": "wiki/concepts/feng-suzhen.md",
+      "degree": 5
+    },
+    {
+      "id": "houdixue",
+      "label": "厚底靴",
+      "title": "houdixue",
+      "aliases": [
+        "thick-soled boots",
+        "厚底靴"
+      ],
+      "path": "wiki/concepts/houdixue.md",
+      "degree": 5
+    },
+    {
+      "id": "liu-mengmei",
+      "label": "柳梦梅",
+      "title": "liu-mengmei",
+      "aliases": [
+        "柳梦梅"
+      ],
+      "path": "wiki/concepts/liu-mengmei.md",
+      "degree": 5
+    },
+    {
+      "id": "mang",
+      "label": "蟒",
+      "title": "mang",
+      "aliases": [
+        "dragon robe",
+        "python robe",
+        "蟒",
+        "official robe"
+      ],
+      "path": "wiki/concepts/mang.md",
+      "degree": 5
+    },
+    {
+      "id": "the-crossroads",
+      "label": "三岔口",
+      "title": "the-crossroads",
+      "aliases": [
+        "San Cha Kou",
+        "三岔口"
+      ],
+      "path": "wiki/concepts/the-crossroads.md",
+      "degree": 5
+    },
+    {
+      "id": "the-lions-roar",
+      "label": "狮吼记",
+      "title": "the-lions-roar",
+      "aliases": [
+        "狮吼记",
+        "Shihou Ji"
+      ],
+      "path": "wiki/concepts/the-lions-roar.md",
+      "degree": 5
+    },
+    {
+      "id": "wujiapo",
+      "label": "武家坡",
+      "title": "wujiapo",
+      "aliases": [
+        "武家坡"
+      ],
+      "path": "wiki/concepts/wujiapo.md",
+      "degree": 5
+    },
+    {
+      "id": "azalea-mountain",
+      "label": "azalea-mountain",
+      "title": "azalea-mountain",
+      "aliases": [
+        "du juan shan",
+        "dujuanshan"
+      ],
+      "path": "wiki/concepts/azalea-mountain.md",
+      "degree": 5
+    },
+    {
+      "id": "borrowing-the-east-wind",
+      "label": "borrowing-the-east-wind",
+      "title": "borrowing-the-east-wind",
+      "aliases": [
+        "jie dong feng"
+      ],
+      "path": "wiki/concepts/borrowing-the-east-wind.md",
+      "degree": 5
+    },
+    {
+      "id": "mu-guiying-gua-shuai",
+      "label": "mu-guiying-gua-shuai",
+      "title": "mu-guiying-gua-shuai",
+      "aliases": [
+        "mu guiying takes command"
+      ],
+      "path": "wiki/concepts/mu-guiying-gua-shuai.md",
+      "degree": 5
+    },
+    {
+      "id": "orchid-finger",
+      "label": "orchid-finger",
+      "title": "orchid-finger",
+      "aliases": [
+        "lan hua zhi"
+      ],
+      "path": "wiki/concepts/orchid-finger.md",
+      "degree": 5
+    },
+    {
+      "id": "pang-ao",
+      "label": "pang-ao",
+      "title": "pang-ao",
+      "aliases": [
+        "padded undergarment"
+      ],
+      "path": "wiki/concepts/pang-ao.md",
+      "degree": 5
+    },
+    {
+      "id": "seven-steps-chant",
+      "label": "seven-steps-chant",
+      "title": "seven-steps-chant",
+      "aliases": [
+        "qi bu yin"
+      ],
+      "path": "wiki/concepts/seven-steps-chant.md",
+      "degree": 5
+    },
+    {
+      "id": "zai-xiang",
+      "label": "zai-xiang",
+      "title": "zai-xiang",
+      "aliases": [
+        "prime minister",
+        "chancellor"
+      ],
+      "path": "wiki/concepts/zai-xiang.md",
+      "degree": 5
+    },
+    {
+      "id": "buyao",
+      "label": "步摇",
+      "title": "buyao",
+      "aliases": [
+        "步摇",
+        "dangling ornaments"
+      ],
+      "path": "wiki/concepts/buyao.md",
+      "degree": 4
+    },
+    {
+      "id": "fengguan",
+      "label": "凤冠",
+      "title": "fengguan",
+      "aliases": [
+        "Phoenix Crown",
+        "凤冠",
+        "phoenix crown"
+      ],
+      "path": "wiki/concepts/fengguan.md",
+      "degree": 4
+    },
+    {
+      "id": "the-red-mane-horse",
+      "label": "红鬃烈马",
+      "title": "the-red-mane-horse",
+      "aliases": [
+        "Hong Zong Lie Ma",
+        "红鬃烈马"
+      ],
+      "path": "wiki/concepts/the-red-mane-horse.md",
+      "degree": 4
+    },
+    {
+      "id": "kuai-xue",
+      "label": "快靴",
+      "title": "kuai-xue",
+      "aliases": [
+        "fast boots",
+        "快靴"
+      ],
+      "path": "wiki/concepts/kuai-xue.md",
+      "degree": 4
+    },
+    {
+      "id": "chiaroscuro",
+      "label": "明暗对比",
+      "title": "chiaroscuro",
+      "aliases": [
+        "明暗对比",
+        "high-contrast lighting"
+      ],
+      "path": "wiki/concepts/chiaroscuro.md",
+      "degree": 4
+    },
+    {
+      "id": "lady-of-qiaoguo",
+      "label": "谯国夫人",
+      "title": "lady-of-qiaoguo",
+      "aliases": [
+        "谯国夫人",
+        "Xian Furen"
+      ],
+      "path": "wiki/concepts/lady-of-qiaoguo.md",
+      "degree": 4
+    },
+    {
+      "id": "wang-xifeng",
+      "label": "王熙凤",
+      "title": "wang-xifeng",
+      "aliases": [
+        "王熙凤"
+      ],
+      "path": "wiki/concepts/wang-xifeng.md",
+      "degree": 4
+    },
+    {
+      "id": "wen-chou",
+      "label": "文丑",
+      "title": "wen-chou",
+      "aliases": [
+        "Civil Clown",
+        "文丑",
+        "civilian clown"
+      ],
+      "path": "wiki/concepts/wen-chou.md",
+      "degree": 4
+    },
+    {
+      "id": "wu-jia-po",
+      "label": "武家坡",
+      "title": "wu-jia-po",
+      "aliases": [
+        "武家坡",
+        "Wujiapo"
+      ],
+      "path": "wiki/concepts/wu-jia-po.md",
+      "degree": 4
+    },
+    {
+      "id": "xiao-hualian",
+      "label": "小花脸",
+      "title": "xiao-hualian",
+      "aliases": [
+        "small painted face",
+        "小花脸"
+      ],
+      "path": "wiki/concepts/xiao-hualian.md",
+      "degree": 4
+    },
+    {
+      "id": "yang-family-generals",
+      "label": "杨家将",
+      "title": "yang-family-generals",
+      "aliases": [
+        "杨家将"
+      ],
+      "path": "wiki/concepts/yang-family-generals.md",
+      "degree": 4
+    },
+    {
+      "id": "one-table-two-chairs",
+      "label": "一桌二椅",
+      "title": "one-table-two-chairs",
+      "aliases": [
+        "yi zhuo er yi",
+        "一桌二椅",
+        "yizhuo eryi"
+      ],
+      "path": "wiki/concepts/one-table-two-chairs.md",
+      "degree": 4
+    },
+    {
+      "id": "yunjian",
+      "label": "云肩",
+      "title": "yunjian",
+      "aliases": [
+        "cloud shoulder",
+        "云肩"
+      ],
+      "path": "wiki/concepts/yunjian.md",
+      "degree": 4
+    },
+    {
+      "id": "the-palace-of-eternal-life",
+      "label": "长生殿",
+      "title": "the-palace-of-eternal-life",
+      "aliases": [
+        "Changsheng Dian",
+        "长生殿",
+        "changsheng dian"
+      ],
+      "path": "wiki/concepts/the-palace-of-eternal-life.md",
+      "degree": 4
+    },
+    {
+      "id": "zijin-guan",
+      "label": "紫金冠",
+      "title": "zijin-guan",
+      "aliases": [
+        "Purple Gold Crown",
+        "紫金冠",
+        "purple gold crown"
+      ],
+      "path": "wiki/concepts/zijin-guan.md",
+      "degree": 4
+    },
+    {
+      "id": "cai-lou-pei",
+      "label": "cai-lou-pei",
+      "title": "cai-lou-pei",
+      "aliases": [
+        "the embroidered ball"
+      ],
+      "path": "wiki/concepts/cai-lou-pei.md",
+      "degree": 4
+    },
+    {
+      "id": "chiaroscuro-lighting",
+      "label": "chiaroscuro-lighting",
+      "title": "chiaroscuro-lighting",
+      "aliases": [
+        "chiaroscuro"
+      ],
+      "path": "wiki/concepts/chiaroscuro-lighting.md",
+      "degree": 4
+    },
+    {
+      "id": "digital-backdrop",
+      "label": "digital-backdrop",
+      "title": "digital-backdrop",
+      "aliases": [
+        "led screen"
+      ],
+      "path": "wiki/concepts/digital-backdrop.md",
+      "degree": 4
+    },
+    {
+      "id": "feng-guan",
+      "label": "feng-guan",
+      "title": "feng-guan",
+      "aliases": [
+        "phoenix crown"
+      ],
+      "path": "wiki/concepts/feng-guan.md",
+      "degree": 4
+    },
+    {
+      "id": "gobo-effects",
+      "label": "gobo-effects",
+      "title": "gobo-effects",
+      "aliases": [
+        "gobo lighting",
+        "gobos"
+      ],
+      "path": "wiki/concepts/gobo-effects.md",
+      "degree": 4
+    },
+    {
+      "id": "gua-hua",
+      "label": "gua-hua",
+      "title": "gua-hua",
+      "aliases": [
+        "hanging the picture"
+      ],
+      "path": "wiki/concepts/gua-hua.md",
+      "degree": 4
+    },
+    {
+      "id": "huxinjing",
+      "label": "huxinjing",
+      "title": "huxinjing",
+      "aliases": [
+        "heart-protecting mirror",
+        "breastplate mirror"
+      ],
+      "path": "wiki/concepts/huxinjing.md",
+      "degree": 4
+    },
+    {
+      "id": "liang-zhu",
+      "label": "liang-zhu",
+      "title": "liang-zhu",
+      "aliases": [
+        "the butterfly lovers"
+      ],
+      "path": "wiki/concepts/liang-zhu.md",
+      "degree": 4
+    },
+    {
+      "id": "liusu",
+      "label": "liusu",
+      "title": "liusu",
+      "aliases": [
+        "dangling tassels",
+        "pearl tassels"
+      ],
+      "path": "wiki/concepts/liusu.md",
+      "degree": 4
+    },
+    {
+      "id": "low-key-lighting",
+      "label": "low-key-lighting",
+      "title": "low-key-lighting",
+      "aliases": [],
+      "path": "wiki/concepts/low-key-lighting.md",
+      "degree": 4
+    },
+    {
+      "id": "luandai",
+      "label": "luandai",
+      "title": "luandai",
+      "aliases": [
+        "opera sash",
+        "opera belt"
+      ],
+      "path": "wiki/concepts/luandai.md",
+      "degree": 4
+    },
+    {
+      "id": "man-rankou",
+      "label": "man-rankou",
+      "title": "man-rankou",
+      "aliases": [
+        "long white beard",
+        "full beard"
+      ],
+      "path": "wiki/concepts/man-rankou.md",
+      "degree": 4
+    },
+    {
+      "id": "new-chinese-style",
+      "label": "new-chinese-style",
+      "title": "new-chinese-style",
+      "aliases": [
+        "xin zhongshi"
+      ],
+      "path": "wiki/concepts/new-chinese-style.md",
+      "degree": 4
+    },
+    {
+      "id": "qinqiang-opera",
+      "label": "qinqiang-opera",
+      "title": "qinqiang-opera",
+      "aliases": [],
+      "path": "wiki/concepts/qinqiang-opera.md",
+      "degree": 4
+    },
+    {
+      "id": "sun-yujiao",
+      "label": "sun-yujiao",
+      "title": "sun-yujiao",
+      "aliases": [],
+      "path": "wiki/concepts/sun-yujiao.md",
+      "degree": 4
+    },
+    {
+      "id": "wujing",
+      "label": "wujing",
+      "title": "wujing",
+      "aliases": [
+        "martial painted face role"
+      ],
+      "path": "wiki/concepts/wujing.md",
+      "degree": 4
+    },
+    {
+      "id": "yangbanxi",
+      "label": "yangbanxi",
+      "title": "yangbanxi",
+      "aliases": [
+        "revolutionary model operas",
+        "model opera",
+        "revolutionary modern opera"
+      ],
+      "path": "wiki/concepts/yangbanxi.md",
+      "degree": 4
+    },
+    {
+      "id": "cang-zhou",
+      "label": "藏舟",
+      "title": "cang-zhou",
+      "aliases": [
+        "Hidden Boat",
+        "藏舟"
+      ],
+      "path": "wiki/concepts/cang-zhou.md",
+      "degree": 3
+    },
+    {
+      "id": "cao-cao",
+      "label": "曹操",
+      "title": "cao-cao",
+      "aliases": [
+        "Cao Cao",
+        "曹操"
+      ],
+      "path": "wiki/concepts/cao-cao.md",
+      "degree": 3
+    },
+    {
+      "id": "red-cliffs",
+      "label": "赤壁",
+      "title": "red-cliffs",
+      "aliases": [
+        "Chibi",
+        "赤壁"
+      ],
+      "path": "wiki/concepts/red-cliffs.md",
+      "degree": 3
+    },
+    {
+      "id": "fuma-taochi",
+      "label": "驸马套翅",
+      "title": "fuma-taochi",
+      "aliases": [
+        "imperial son-in-law winged headdress",
+        "驸马套翅"
+      ],
+      "path": "wiki/concepts/fuma-taochi.md",
+      "degree": 3
+    },
+    {
+      "id": "guan-yu",
+      "label": "关羽",
+      "title": "guan-yu",
+      "aliases": [
+        "Guan Yu",
+        "关羽"
+      ],
+      "path": "wiki/concepts/guan-yu.md",
+      "degree": 3
+    },
+    {
+      "id": "dream-of-the-red-chamber",
+      "label": "红楼梦",
+      "title": "dream-of-the-red-chamber",
+      "aliases": [
+        "honglou meng",
+        "红楼梦",
+        "Honglou Meng"
+      ],
+      "path": "wiki/concepts/dream-of-the-red-chamber.md",
+      "degree": 3
+    },
+    {
+      "id": "hou-mao",
+      "label": "侯帽",
+      "title": "hou-mao",
+      "aliases": [
+        "marquis hat",
+        "侯帽"
+      ],
+      "path": "wiki/concepts/hou-mao.md",
+      "degree": 3
+    },
+    {
+      "id": "fox-tail",
+      "label": "狐尾",
+      "title": "fox-tail",
+      "aliases": [
+        "狐尾"
+      ],
+      "path": "wiki/concepts/fox-tail.md",
+      "degree": 3
+    },
+    {
+      "id": "kuai-yi",
+      "label": "快衣",
+      "title": "kuai-yi",
+      "aliases": [
+        "martial outfit",
+        "快衣"
+      ],
+      "path": "wiki/concepts/kuai-yi.md",
+      "degree": 3
+    },
+    {
+      "id": "ma-bian",
+      "label": "马鞭",
+      "title": "ma-bian",
+      "aliases": [
+        "马鞭",
+        "horse whip"
+      ],
+      "path": "wiki/concepts/ma-bian.md",
+      "degree": 3
+    },
+    {
+      "id": "man-ran",
+      "label": "满髯",
+      "title": "man-ran",
+      "aliases": [
+        "full beard",
+        "满髯"
+      ],
+      "path": "wiki/concepts/man-ran.md",
+      "degree": 3
+    },
+    {
+      "id": "mang-robe",
+      "label": "蟒",
+      "title": "mang-robe",
+      "aliases": [
+        "dragon robe",
+        "蟒"
+      ],
+      "path": "wiki/concepts/mang-robe.md",
+      "degree": 3
+    },
+    {
+      "id": "mu-guiying",
+      "label": "穆桂英",
+      "title": "mu-guiying",
+      "aliases": [
+        "穆桂英"
+      ],
+      "path": "wiki/concepts/mu-guiying.md",
+      "degree": 3
+    },
+    {
+      "id": "pianzi",
+      "label": "片子",
+      "title": "pianzi",
+      "aliases": [
+        "hair pieces",
+        "片子"
+      ],
+      "path": "wiki/concepts/pianzi.md",
+      "degree": 3
+    },
+    {
+      "id": "seven-star-ezi",
+      "label": "七星额子",
+      "title": "seven-star-ezi",
+      "aliases": [
+        "Seven-Star Ezi",
+        "七星额子"
+      ],
+      "path": "wiki/concepts/seven-star-ezi.md",
+      "degree": 3
+    },
+    {
+      "id": "qiyi",
+      "label": "祺衣",
+      "title": "qiyi",
+      "aliases": [
+        "formal robe",
+        "祺衣"
+      ],
+      "path": "wiki/concepts/qiyi.md",
+      "degree": 3
+    },
+    {
+      "id": "ran-kou",
+      "label": "髯口",
+      "title": "ran-kou",
+      "aliases": [
+        "artificial beard",
+        "髯口"
+      ],
+      "path": "wiki/concepts/ran-kou.md",
+      "degree": 3
+    },
+    {
+      "id": "shi-jie-ting-kong-cheng-ji-zhan-ma-su",
+      "label": "失街亭·空城计·斩马谡",
+      "title": "shi-jie-ting-kong-cheng-ji-zhan-ma-su",
+      "aliases": [
+        "Loss of Jieting, Empty City Strategy, and Execution of Ma Su",
+        "失街亭·空城计·斩马谡"
+      ],
+      "path": "wiki/concepts/shi-jie-ting-kong-cheng-ji-zhan-ma-su.md",
+      "degree": 3
+    },
+    {
+      "id": "taozi",
+      "label": "绦子",
+      "title": "taozi",
+      "aliases": [
+        "silk tassels",
+        "silk cords",
+        "绦子"
+      ],
+      "path": "wiki/concepts/taozi.md",
+      "degree": 3
+    },
+    {
+      "id": "wushama",
+      "label": "乌纱帽",
+      "title": "wushama",
+      "aliases": [
+        "official's hat",
+        "乌纱帽"
+      ],
+      "path": "wiki/concepts/wushama.md",
+      "degree": 3
+    },
+    {
+      "id": "wu-dan",
+      "label": "武旦",
+      "title": "wu-dan",
+      "aliases": [
+        "武旦",
+        "martial female role"
+      ],
+      "path": "wiki/concepts/wu-dan.md",
+      "degree": 3
+    },
+    {
+      "id": "new-liu-sanjie",
+      "label": "新刘三姐",
+      "title": "new-liu-sanjie",
+      "aliases": [
+        "新刘三姐"
+      ],
+      "path": "wiki/concepts/new-liu-sanjie.md",
+      "degree": 3
+    },
+    {
+      "id": "wandering-in-the-garden-waking-from-a-dream",
+      "label": "游园·惊梦",
+      "title": "wandering-in-the-garden-waking-from-a-dream",
+      "aliases": [
+        "游园·惊梦",
+        "youyuan jingmeng",
+        "游园惊梦",
+        "Youyuan Jingmeng"
+      ],
+      "path": "wiki/concepts/wandering-in-the-garden-waking-from-a-dream.md",
+      "degree": 3
+    },
+    {
+      "id": "yu-tianxian",
+      "label": "玉天仙",
+      "title": "yu-tianxian",
+      "aliases": [
+        "玉天仙",
+        "Jade Heavenly Immortal",
+        "the jade heavenly immortal",
+        "The Jade Heavenly Immortal"
+      ],
+      "path": "wiki/concepts/yu-tianxian.md",
+      "degree": 3
+    },
+    {
+      "id": "changshan",
+      "label": "changshan",
+      "title": "changshan",
+      "aliases": [
+        "traditional long robe"
+      ],
+      "path": "wiki/concepts/changshan.md",
+      "degree": 3
+    },
+    {
+      "id": "chaofang-boots",
+      "label": "chaofang-boots",
+      "title": "chaofang-boots",
+      "aliases": [
+        "thick-soled footwear",
+        "chaofang xue"
+      ],
+      "path": "wiki/concepts/chaofang-boots.md",
+      "degree": 3
+    },
+    {
+      "id": "chou-pozi",
+      "label": "chou-pozi",
+      "title": "chou-pozi",
+      "aliases": [
+        "clown old woman",
+        "comedic older female"
+      ],
+      "path": "wiki/concepts/chou-pozi.md",
+      "degree": 3
+    },
+    {
+      "id": "cultural-revolution",
+      "label": "cultural-revolution",
+      "title": "cultural-revolution",
+      "aliases": [],
+      "path": "wiki/concepts/cultural-revolution.md",
+      "degree": 3
+    },
+    {
+      "id": "doupeng",
+      "label": "doupeng",
+      "title": "doupeng",
+      "aliases": [
+        "hooded cloak"
+      ],
+      "path": "wiki/concepts/doupeng.md",
+      "degree": 3
+    },
+    {
+      "id": "fen-zhuang",
+      "label": "fen-zhuang",
+      "title": "fen-zhuang",
+      "aliases": [
+        "pink and red makeup"
+      ],
+      "path": "wiki/concepts/fen-zhuang.md",
+      "degree": 3
+    },
+    {
+      "id": "gongshou",
+      "label": "gongshou",
+      "title": "gongshou",
+      "aliases": [],
+      "path": "wiki/concepts/gongshou.md",
+      "degree": 3
+    },
+    {
+      "id": "liangxiang",
+      "label": "liangxiang",
+      "title": "liangxiang",
+      "aliases": [
+        "tableau",
+        "stylized pose",
+        "striking a pose"
+      ],
+      "path": "wiki/concepts/liangxiang.md",
+      "degree": 3
+    },
+    {
+      "id": "mabian",
+      "label": "mabian",
+      "title": "mabian",
+      "aliases": [
+        "horse whip"
+      ],
+      "path": "wiki/concepts/mabian.md",
+      "degree": 3
+    },
+    {
+      "id": "maquette",
+      "label": "maquette",
+      "title": "maquette",
+      "aliases": [
+        "scale model",
+        "stage design model"
+      ],
+      "path": "wiki/concepts/maquette.md",
+      "degree": 3
+    },
+    {
+      "id": "model-operas",
+      "label": "model-operas",
+      "title": "model-operas",
+      "aliases": [
+        "yangbanxi"
+      ],
+      "path": "wiki/concepts/model-operas.md",
+      "degree": 3
+    },
+    {
+      "id": "mu-guiying-takes-command",
+      "label": "mu-guiying-takes-command",
+      "title": "mu-guiying-takes-command",
+      "aliases": [
+        "mu guiying gua shuai"
+      ],
+      "path": "wiki/concepts/mu-guiying-takes-command.md",
+      "degree": 3
+    },
+    {
+      "id": "nv-mang",
+      "label": "nv-mang",
+      "title": "nv-mang",
+      "aliases": [
+        "female python robe"
+      ],
+      "path": "wiki/concepts/nv-mang.md",
+      "degree": 3
+    },
+    {
+      "id": "picking-up-the-jade-bracelet",
+      "label": "picking-up-the-jade-bracelet",
+      "title": "picking-up-the-jade-bracelet",
+      "aliases": [
+        "shi yu zhuo"
+      ],
+      "path": "wiki/concepts/picking-up-the-jade-bracelet.md",
+      "degree": 3
+    },
+    {
+      "id": "ping-tian-guan",
+      "label": "ping-tian-guan",
+      "title": "ping-tian-guan",
+      "aliases": [
+        "flat sky crown",
+        "imperial crown"
+      ],
+      "path": "wiki/concepts/ping-tian-guan.md",
+      "degree": 3
+    },
+    {
+      "id": "qimo",
+      "label": "qimo",
+      "title": "qimo",
+      "aliases": [
+        "stage properties",
+        "stage props"
+      ],
+      "path": "wiki/concepts/qimo.md",
+      "degree": 3
+    },
+    {
+      "id": "shuai-kui",
+      "label": "shuai-kui",
+      "title": "shuai-kui",
+      "aliases": [
+        "marshal's helmet"
+      ],
+      "path": "wiki/concepts/shuai-kui.md",
+      "degree": 3
+    },
+    {
+      "id": "the-gathering-of-heroes",
+      "label": "the-gathering-of-heroes",
+      "title": "the-gathering-of-heroes",
+      "aliases": [
+        "qun ying hui"
+      ],
+      "path": "wiki/concepts/the-gathering-of-heroes.md",
+      "degree": 3
+    },
+    {
+      "id": "wuju-opera",
+      "label": "wuju-opera",
+      "title": "wuju-opera",
+      "aliases": [],
+      "path": "wiki/concepts/wuju-opera.md",
+      "degree": 3
+    },
+    {
+      "id": "xiang-diao",
+      "label": "xiang-diao",
+      "title": "xiang-diao",
+      "aliases": [
+        "prime minister's headdress"
+      ],
+      "path": "wiki/concepts/xiang-diao.md",
+      "degree": 3
+    },
+    {
+      "id": "ye-hanzhi",
+      "label": "ye-hanzhi",
+      "title": "ye-hanzhi",
+      "aliases": [],
+      "path": "wiki/concepts/ye-hanzhi.md",
+      "degree": 3
+    },
+    {
+      "id": "zaju",
+      "label": "zaju",
+      "title": "zaju",
+      "aliases": [
+        "variety play"
+      ],
+      "path": "wiki/concepts/zaju.md",
+      "degree": 3
+    },
+    {
+      "id": "zhu-yingtai",
+      "label": "zhu-yingtai",
+      "title": "zhu-yingtai",
+      "aliases": [],
+      "path": "wiki/concepts/zhu-yingtai.md",
+      "degree": 3
+    },
+    {
+      "id": "eight-treasures-soup",
+      "label": "八珍汤",
+      "title": "eight-treasures-soup",
+      "aliases": [
+        "ba zhen tang",
+        "八珍汤",
+        "Ba Zhen Tang"
+      ],
+      "path": "wiki/concepts/eight-treasures-soup.md",
+      "degree": 2
+    },
+    {
+      "id": "the-jade-hairpin",
+      "label": "碧玉簪",
+      "title": "the-jade-hairpin",
+      "aliases": [
+        "Bi Yu Zan",
+        "碧玉簪"
+      ],
+      "path": "wiki/concepts/the-jade-hairpin.md",
+      "degree": 2
+    },
+    {
+      "id": "caidiao-opera",
+      "label": "彩调剧",
+      "title": "caidiao-opera",
+      "aliases": [
+        "caidiao",
+        "彩调剧"
+      ],
+      "path": "wiki/concepts/caidiao-opera.md",
+      "degree": 2
+    },
+    {
+      "id": "cai-xie",
+      "label": "彩鞋",
+      "title": "cai-xie",
+      "aliases": [
+        "彩鞋",
+        "colorful embroidered shoes"
+      ],
+      "path": "wiki/concepts/cai-xie.md",
+      "degree": 2
+    },
+    {
+      "id": "chen-sanniang",
+      "label": "陈三娘",
+      "title": "chen-sanniang",
+      "aliases": [
+        "陈三娘"
+      ],
+      "path": "wiki/concepts/chen-sanniang.md",
+      "degree": 2
+    },
+    {
+      "id": "college-student-innovation-project",
+      "label": "大创项目",
+      "title": "college-student-innovation-project",
+      "aliases": [
+        "大创项目",
+        "College Student Innovation Project"
+      ],
+      "path": "wiki/concepts/college-student-innovation-project.md",
+      "degree": 2
+    },
+    {
+      "id": "dao-ma-dan",
+      "label": "刀马旦",
+      "title": "dao-ma-dan",
+      "aliases": [
+        "刀马旦",
+        "martial female warrior"
+      ],
+      "path": "wiki/concepts/dao-ma-dan.md",
+      "degree": 2
+    },
+    {
+      "id": "dao-qiang-ba-zi",
+      "label": "刀枪把子",
+      "title": "dao-qiang-ba-zi",
+      "aliases": [
+        "刀枪把子",
+        "stage weapons",
+        "swords spears and handles"
+      ],
+      "path": "wiki/concepts/dao-qiang-ba-zi.md",
+      "degree": 2
+    },
+    {
+      "id": "duan-da",
+      "label": "短打",
+      "title": "duan-da",
+      "aliases": [
+        "short coat",
+        "短打"
+      ],
+      "path": "wiki/concepts/duan-da.md",
+      "degree": 2
+    },
+    {
+      "id": "liu-lihua",
+      "label": "刘利华",
+      "title": "liu-lihua",
+      "aliases": [
+        "Liu Lihua",
+        "刘利华"
+      ],
+      "path": "wiki/concepts/liu-lihua.md",
+      "degree": 2
+    },
+    {
+      "id": "luo-pa-ji",
+      "label": "罗帕记",
+      "title": "luo-pa-ji",
+      "aliases": [
+        "the story of the silk handkerchief",
+        "罗帕记"
+      ],
+      "path": "wiki/concepts/luo-pa-ji.md",
+      "degree": 2
+    },
+    {
+      "id": "mu-ying",
+      "label": "沐英",
+      "title": "mu-ying",
+      "aliases": [
+        "沐英"
+      ],
+      "path": "wiki/concepts/mu-ying.md",
+      "degree": 2
+    },
+    {
+      "id": "the-female-son-in-law",
+      "label": "女驸马",
+      "title": "the-female-son-in-law",
+      "aliases": [
+        "Nu Fuma",
+        "女驸马"
+      ],
+      "path": "wiki/concepts/the-female-son-in-law.md",
+      "degree": 2
+    },
+    {
+      "id": "sha-mao",
+      "label": "纱帽",
+      "title": "sha-mao",
+      "aliases": [
+        "black gauze hat",
+        "wusha mao",
+        "纱帽",
+        "乌纱帽"
+      ],
+      "path": "wiki/concepts/sha-mao.md",
+      "degree": 2
+    },
+    {
+      "id": "xiang-nong",
+      "label": "向农",
+      "title": "xiang-nong",
+      "aliases": [
+        "向农"
+      ],
+      "path": "wiki/concepts/xiang-nong.md",
+      "degree": 2
+    },
+    {
+      "id": "yudai",
+      "label": "玉带",
+      "title": "yudai",
+      "aliases": [
+        "jade belt",
+        "玉带"
+      ],
+      "path": "wiki/concepts/yudai.md",
+      "degree": 2
+    },
+    {
+      "id": "yuanqu-xuan",
+      "label": "元曲选",
+      "title": "yuanqu-xuan",
+      "aliases": [
+        "selected yuan dramas",
+        "元曲选"
+      ],
+      "path": "wiki/concepts/yuanqu-xuan.md",
+      "degree": 2
+    },
+    {
+      "id": "zang-maoxun",
+      "label": "臧懋循",
+      "title": "zang-maoxun",
+      "aliases": [
+        "zang jinshu",
+        "臧懋循",
+        "臧晋叔"
+      ],
+      "path": "wiki/concepts/zang-maoxun.md",
+      "degree": 2
+    },
+    {
+      "id": "black-box-style",
+      "label": "black-box-style",
+      "title": "black-box-style",
+      "aliases": [],
+      "path": "wiki/concepts/black-box-style.md",
+      "degree": 2
+    },
+    {
+      "id": "blue-wash",
+      "label": "blue-wash",
+      "title": "blue-wash",
+      "aliases": [
+        "blue lighting"
+      ],
+      "path": "wiki/concepts/blue-wash.md",
+      "degree": 2
+    },
+    {
+      "id": "ezi",
+      "label": "ezi",
+      "title": "ezi",
+      "aliases": [
+        "forehead piece",
+        "crown"
+      ],
+      "path": "wiki/concepts/ezi.md",
+      "degree": 2
+    },
+    {
+      "id": "gui-opera",
+      "label": "gui-opera",
+      "title": "gui-opera",
+      "aliases": [],
+      "path": "wiki/concepts/gui-opera.md",
+      "degree": 2
+    },
+    {
+      "id": "journey-to-the-west",
+      "label": "journey-to-the-west",
+      "title": "journey-to-the-west",
+      "aliases": [],
+      "path": "wiki/concepts/journey-to-the-west.md",
+      "degree": 2
+    },
+    {
+      "id": "kui",
+      "label": "kui",
+      "title": "kui",
+      "aliases": [
+        "opera helmet"
+      ],
+      "path": "wiki/concepts/kui.md",
+      "degree": 2
+    },
+    {
+      "id": "mei-lanfang-growing-a-beard",
+      "label": "mei-lanfang-growing-a-beard",
+      "title": "mei-lanfang-growing-a-beard",
+      "aliases": [
+        "mei lanfang xu xu ji"
+      ],
+      "path": "wiki/concepts/mei-lanfang-growing-a-beard.md",
+      "degree": 2
+    },
+    {
+      "id": "national-essence-culture-week",
+      "label": "national-essence-culture-week",
+      "title": "national-essence-culture-week",
+      "aliases": [],
+      "path": "wiki/concepts/national-essence-culture-week.md",
+      "degree": 2
+    },
+    {
+      "id": "painted-backdrop",
+      "label": "painted-backdrop",
+      "title": "painted-backdrop",
+      "aliases": [
+        "painted backdrop"
+      ],
+      "path": "wiki/concepts/painted-backdrop.md",
+      "degree": 2
+    },
+    {
+      "id": "qi-bu-yin",
+      "label": "qi-bu-yin",
+      "title": "qi-bu-yin",
+      "aliases": [
+        "seven steps chant"
+      ],
+      "path": "wiki/concepts/qi-bu-yin.md",
+      "degree": 2
+    },
+    {
+      "id": "spotlight",
+      "label": "spotlight",
+      "title": "spotlight",
+      "aliases": [
+        "spotlighting"
+      ],
+      "path": "wiki/concepts/spotlight.md",
+      "degree": 2
+    },
+    {
+      "id": "the-tale-of-the-pipa",
+      "label": "the-tale-of-the-pipa",
+      "title": "the-tale-of-the-pipa",
+      "aliases": [
+        "pipa ji"
+      ],
+      "path": "wiki/concepts/the-tale-of-the-pipa.md",
+      "degree": 2
+    },
+    {
+      "id": "wuxi",
+      "label": "wuxi",
+      "title": "wuxi",
+      "aliases": [
+        "martial play"
+      ],
+      "path": "wiki/concepts/wuxi.md",
+      "degree": 2
+    },
+    {
+      "id": "yi-zhuo-er-yi",
+      "label": "yi-zhuo-er-yi",
+      "title": "yi-zhuo-er-yi",
+      "aliases": [
+        "one table two chairs"
+      ],
+      "path": "wiki/concepts/yi-zhuo-er-yi.md",
+      "degree": 2
+    },
+    {
+      "id": "zhan-chi",
+      "label": "zhan-chi",
+      "title": "zhan-chi",
+      "aliases": [
+        "exhibition wings"
+      ],
+      "path": "wiki/concepts/zhan-chi.md",
+      "degree": 2
+    },
+    {
+      "id": "dingjun-mountain",
+      "label": "定军山",
+      "title": "dingjun-mountain",
+      "aliases": [
+        "定军山"
+      ],
+      "path": "wiki/concepts/dingjun-mountain.md",
+      "degree": 1
+    },
+    {
+      "id": "fenyang-hat",
+      "label": "汾阳帽",
+      "title": "fenyang-hat",
+      "aliases": [
+        "汾阳帽"
+      ],
+      "path": "wiki/concepts/fenyang-hat.md",
+      "degree": 1
+    },
+    {
+      "id": "hall-of-mingying-wang",
+      "label": "明应王殿",
+      "title": "hall-of-mingying-wang",
+      "aliases": [
+        "明应王殿",
+        "Guangsheng Temple"
+      ],
+      "path": "wiki/concepts/hall-of-mingying-wang.md",
+      "degree": 1
+    },
+    {
+      "id": "lady-of-qiao",
+      "label": "谯国夫人",
+      "title": "lady-of-qiao",
+      "aliases": [
+        "Qiao Guo Furen",
+        "谯国夫人"
+      ],
+      "path": "wiki/concepts/lady-of-qiao.md",
+      "degree": 1
+    },
+    {
+      "id": "capturing-jinling",
+      "label": "取金陵",
+      "title": "capturing-jinling",
+      "aliases": [
+        "取金陵",
+        "Taking Jinling"
+      ],
+      "path": "wiki/concepts/capturing-jinling.md",
+      "degree": 1
+    },
+    {
+      "id": "water-stage",
+      "label": "水台",
+      "title": "water-stage",
+      "aliases": [
+        "shuitai",
+        "ancient opera stage",
+        "水台",
+        "戏台"
+      ],
+      "path": "wiki/concepts/water-stage.md",
+      "degree": 1
+    },
+    {
+      "id": "stage-design-script",
+      "label": "舞美术本",
+      "title": "stage-design-script",
+      "aliases": [
+        "舞美术本",
+        "stage art and design script"
+      ],
+      "path": "wiki/concepts/stage-design-script.md",
+      "degree": 1
+    },
+    {
+      "id": "ba-zhen-tang",
+      "label": "ba-zhen-tang",
+      "title": "ba-zhen-tang",
+      "aliases": [
+        "eight treasures soup"
+      ],
+      "path": "wiki/concepts/ba-zhen-tang.md",
+      "degree": 1
+    },
+    {
+      "id": "ban-zhao",
+      "label": "ban-zhao",
+      "title": "ban-zhao",
+      "aliases": [],
+      "path": "wiki/concepts/ban-zhao.md",
+      "degree": 1
+    },
+    {
+      "id": "goulan",
+      "label": "goulan",
+      "title": "goulan",
+      "aliases": [
+        "courtyard opera stage",
+        "traditional theater stage"
+      ],
+      "path": "wiki/concepts/goulan.md",
+      "degree": 1
+    },
+    {
+      "id": "hua-dan",
+      "label": "hua-dan",
+      "title": "hua-dan",
+      "aliases": [],
+      "path": "wiki/concepts/hua-dan.md",
+      "degree": 1
+    },
+    {
+      "id": "man-ting-fang",
+      "label": "man-ting-fang",
+      "title": "man-ting-fang",
+      "aliases": [
+        "full court of fragrance"
+      ],
+      "path": "wiki/concepts/man-ting-fang.md",
+      "degree": 1
+    },
+    {
+      "id": "mudan-ting",
+      "label": "mudan-ting",
+      "title": "mudan-ting",
+      "aliases": [
+        "the peony pavilion"
+      ],
+      "path": "wiki/concepts/mudan-ting.md",
+      "degree": 1
+    },
+    {
+      "id": "princess-iron-fan",
+      "label": "princess-iron-fan",
+      "title": "princess-iron-fan",
+      "aliases": [],
+      "path": "wiki/concepts/princess-iron-fan.md",
+      "degree": 1
+    },
+    {
+      "id": "shoujiu",
+      "label": "shoujiu",
+      "title": "shoujiu",
+      "aliases": [
+        "side curtains",
+        "traditional backdrop"
+      ],
+      "path": "wiki/concepts/shoujiu.md",
+      "degree": 1
+    },
+    {
+      "id": "su-opera",
+      "label": "su-opera",
+      "title": "su-opera",
+      "aliases": [],
+      "path": "wiki/concepts/su-opera.md",
+      "degree": 1
+    },
+    {
+      "id": "xianzhuang",
+      "label": "xianzhuang",
+      "title": "xianzhuang",
+      "aliases": [
+        "thread-bound book"
+      ],
+      "path": "wiki/concepts/xianzhuang.md",
+      "degree": 1
+    },
+    {
+      "id": "bai-lian",
+      "label": "白脸",
+      "title": "bai-lian",
+      "aliases": [
+        "white face paint",
+        "白脸"
+      ],
+      "path": "wiki/concepts/bai-lian.md",
+      "degree": 0
+    },
+    {
+      "id": "legend-of-the-white-snake",
+      "label": "白蛇传",
+      "title": "legend-of-the-white-snake",
+      "aliases": [
+        "Bai She Zhuan",
+        "白蛇传"
+      ],
+      "path": "wiki/concepts/legend-of-the-white-snake.md",
+      "degree": 0
+    },
+    {
+      "id": "chuanjiang",
+      "label": "船桨",
+      "title": "chuanjiang",
+      "aliases": [
+        "boat oars",
+        "船桨"
+      ],
+      "path": "wiki/concepts/chuanjiang.md",
+      "degree": 0
+    },
+    {
+      "id": "cigu-ye",
+      "label": "茨菇叶",
+      "title": "cigu-ye",
+      "aliases": [
+        "Arrowhead Leaf",
+        "茨菇叶"
+      ],
+      "path": "wiki/concepts/cigu-ye.md",
+      "degree": 0
+    },
+    {
+      "id": "hu-board",
+      "label": "笏板",
+      "title": "hu-board",
+      "aliases": [
+        "ceremonial tablet",
+        "笏板",
+        "court tablet",
+        "hu"
+      ],
+      "path": "wiki/concepts/hu-board.md",
+      "degree": 0
+    },
+    {
+      "id": "lingqi",
+      "label": "令旗",
+      "title": "lingqi",
+      "aliases": [
+        "Command Flag",
+        "令旗"
+      ],
+      "path": "wiki/concepts/lingqi.md",
+      "degree": 0
+    },
+    {
+      "id": "shoujuan",
+      "label": "手绢",
+      "title": "shoujuan",
+      "aliases": [
+        "handkerchief",
+        "手绢"
+      ],
+      "path": "wiki/concepts/shoujuan.md",
+      "degree": 0
+    },
+    {
+      "id": "visual-script",
+      "label": "舞美术本",
+      "title": "visual-script",
+      "aliases": [
+        "舞美术本",
+        "stage design book"
+      ],
+      "path": "wiki/concepts/visual-script.md",
+      "degree": 0
+    },
+    {
+      "id": "virtualization",
+      "label": "虚拟化",
+      "title": "virtualization",
+      "aliases": [
+        "virtualization convention",
+        "虚拟化"
+      ],
+      "path": "wiki/concepts/virtualization.md",
+      "degree": 0
+    },
+    {
+      "id": "yuan-dynasty-drama-mural",
+      "label": "元代戏剧壁画",
+      "title": "yuan-dynasty-drama-mural",
+      "aliases": [
+        "元代戏剧壁画"
+      ],
+      "path": "wiki/concepts/yuan-dynasty-drama-mural.md",
+      "degree": 0
+    },
+    {
+      "id": "dian-cui",
+      "label": "dian-cui",
+      "title": "dian-cui",
+      "aliases": [
+        "kingfisher plumes"
+      ],
+      "path": "wiki/concepts/dian-cui.md",
+      "degree": 0
+    },
+    {
+      "id": "fuchen",
+      "label": "fuchen",
+      "title": "fuchen",
+      "aliases": [
+        "fly-whisk"
+      ],
+      "path": "wiki/concepts/fuchen.md",
+      "degree": 0
+    },
+    {
+      "id": "guanyin",
+      "label": "guanyin",
+      "title": "guanyin",
+      "aliases": [
+        "goddess of mercy"
+      ],
+      "path": "wiki/concepts/guanyin.md",
+      "degree": 0
+    },
+    {
+      "id": "huling",
+      "label": "huling",
+      "title": "huling",
+      "aliases": [
+        "protective collar"
+      ],
+      "path": "wiki/concepts/huling.md",
+      "degree": 0
+    },
+    {
+      "id": "liu",
+      "label": "liu",
+      "title": "liu",
+      "aliases": [
+        "ceremonial fringe",
+        "hanging beads"
+      ],
+      "path": "wiki/concepts/liu.md",
+      "degree": 0
+    },
+    {
+      "id": "mianpai",
+      "label": "mianpai",
+      "title": "mianpai",
+      "aliases": [
+        "face plaque"
+      ],
+      "path": "wiki/concepts/mianpai.md",
+      "degree": 0
+    },
+    {
+      "id": "minimalist-set-design",
+      "label": "minimalist-set-design",
+      "title": "minimalist-set-design",
+      "aliases": [],
+      "path": "wiki/concepts/minimalist-set-design.md",
+      "degree": 0
+    },
+    {
+      "id": "rongqiu",
+      "label": "rongqiu",
+      "title": "rongqiu",
+      "aliases": [
+        "velvet pom-pom"
+      ],
+      "path": "wiki/concepts/rongqiu.md",
+      "degree": 0
+    }
+  ],
+  "edges": [
+    {
+      "source": "azalea-mountain",
+      "target": "cultural-revolution"
+    },
+    {
+      "source": "azalea-mountain",
+      "target": "model-operas"
+    },
+    {
+      "source": "azalea-mountain",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "azalea-mountain",
+      "target": "scenography"
+    },
+    {
+      "source": "azalea-mountain",
+      "target": "yangbanxi"
+    },
+    {
+      "source": "ba-zhen-tang",
+      "target": "peking-opera"
+    },
+    {
+      "source": "ban-zhao",
+      "target": "yueju"
+    },
+    {
+      "source": "black-box-style",
+      "target": "scenography"
+    },
+    {
+      "source": "black-box-style",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "blue-wash",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "blue-wash",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "borrowing-the-east-wind",
+      "target": "laosheng"
+    },
+    {
+      "source": "borrowing-the-east-wind",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "borrowing-the-east-wind",
+      "target": "peking-opera"
+    },
+    {
+      "source": "borrowing-the-east-wind",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "borrowing-the-east-wind",
+      "target": "the-gathering-of-heroes"
+    },
+    {
+      "source": "buyao",
+      "target": "diancui"
+    },
+    {
+      "source": "buyao",
+      "target": "feng-guan"
+    },
+    {
+      "source": "buyao",
+      "target": "fengguan"
+    },
+    {
+      "source": "buyao",
+      "target": "yue-opera"
+    },
+    {
+      "source": "cai-dan",
+      "target": "chou-pozi"
+    },
+    {
+      "source": "cai-dan",
+      "target": "eight-treasures-soup"
+    },
+    {
+      "source": "cai-dan",
+      "target": "hangdang"
+    },
+    {
+      "source": "cai-dan",
+      "target": "huadan"
+    },
+    {
+      "source": "cai-dan",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "cai-dan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "cai-lou-pei",
+      "target": "peking-opera"
+    },
+    {
+      "source": "cai-lou-pei",
+      "target": "the-red-mane-horse"
+    },
+    {
+      "source": "cai-lou-pei",
+      "target": "wang-baochuan"
+    },
+    {
+      "source": "cai-lou-pei",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "cai-xie",
+      "target": "huadan"
+    },
+    {
+      "source": "cai-xie",
+      "target": "kuai-xue"
+    },
+    {
+      "source": "caidiao-opera",
+      "target": "new-liu-sanjie"
+    },
+    {
+      "source": "caidiao-opera",
+      "target": "peking-opera"
+    },
+    {
+      "source": "cang-zhou",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "cang-zhou",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "cang-zhou",
+      "target": "zhezixi"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "lady-of-qiao"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "lady-of-qiaoguo"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "lighting-design"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "mangpao"
+    },
+    {
+      "source": "cantonese-opera",
+      "target": "peking-opera"
+    },
+    {
+      "source": "cao-cao",
+      "target": "jing"
+    },
+    {
+      "source": "cao-cao",
+      "target": "peking-opera"
+    },
+    {
+      "source": "cao-cao",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "capturing-jinling",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "changshan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "changshan",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "changshan",
+      "target": "xuezi"
+    },
+    {
+      "source": "chaofang-boots",
+      "target": "houdixue"
+    },
+    {
+      "source": "chaofang-boots",
+      "target": "mang"
+    },
+    {
+      "source": "chaofang-boots",
+      "target": "mangpao"
+    },
+    {
+      "source": "chen-sanniang",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "chen-sanniang",
+      "target": "luo-pa-ji"
+    },
+    {
+      "source": "chiaroscuro",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "chiaroscuro-lighting",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "chiaroscuro-lighting",
+      "target": "low-key-lighting"
+    },
+    {
+      "source": "chiaroscuro-lighting",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "chiaroscuro-lighting",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "chiaroscuro",
+      "target": "low-key-lighting"
+    },
+    {
+      "source": "chiaroscuro",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "chiaroscuro",
+      "target": "yue-opera"
+    },
+    {
+      "source": "chou",
+      "target": "dan"
+    },
+    {
+      "source": "chou",
+      "target": "doufu-kuai"
+    },
+    {
+      "source": "chou",
+      "target": "jing"
+    },
+    {
+      "source": "chou",
+      "target": "kuai-xue"
+    },
+    {
+      "source": "chou",
+      "target": "laodan"
+    },
+    {
+      "source": "chou",
+      "target": "orchid-finger"
+    },
+    {
+      "source": "chou",
+      "target": "peking-opera"
+    },
+    {
+      "source": "chou-pozi",
+      "target": "hangdang"
+    },
+    {
+      "source": "chou-pozi",
+      "target": "peking-opera"
+    },
+    {
+      "source": "chou",
+      "target": "sheng"
+    },
+    {
+      "source": "chou",
+      "target": "sheng-role"
+    },
+    {
+      "source": "chou",
+      "target": "shi-yu-zhuo"
+    },
+    {
+      "source": "chou",
+      "target": "wuchou"
+    },
+    {
+      "source": "chou",
+      "target": "xiao-hualian"
+    },
+    {
+      "source": "chou",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "chou",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "chou",
+      "target": "zai-xiang"
+    },
+    {
+      "source": "college-student-innovation-project",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "college-student-innovation-project",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "cultural-revolution",
+      "target": "model-operas"
+    },
+    {
+      "source": "cultural-revolution",
+      "target": "yangbanxi"
+    },
+    {
+      "source": "da-deng-dian",
+      "target": "peking-opera"
+    },
+    {
+      "source": "da-deng-dian",
+      "target": "qing-yi"
+    },
+    {
+      "source": "da-deng-dian",
+      "target": "wang-baochuan"
+    },
+    {
+      "source": "da-deng-dian",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "da-deng-dian",
+      "target": "zhezixi"
+    },
+    {
+      "source": "dan",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "dan",
+      "target": "jing"
+    },
+    {
+      "source": "dan",
+      "target": "junban"
+    },
+    {
+      "source": "dan",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "dan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "dan-role",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "dan-role",
+      "target": "jing-role"
+    },
+    {
+      "source": "dan-role",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "dan-role",
+      "target": "laodan"
+    },
+    {
+      "source": "dan-role",
+      "target": "peking-opera"
+    },
+    {
+      "source": "dan-role",
+      "target": "pianzi"
+    },
+    {
+      "source": "dan-role",
+      "target": "sheng-role"
+    },
+    {
+      "source": "dan-role",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "dan-role",
+      "target": "toumian"
+    },
+    {
+      "source": "dan-role",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "dan-role",
+      "target": "yueju"
+    },
+    {
+      "source": "dan",
+      "target": "sheng"
+    },
+    {
+      "source": "dan",
+      "target": "taozi"
+    },
+    {
+      "source": "dan",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "dan",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "dan",
+      "target": "yue-opera"
+    },
+    {
+      "source": "dao-ma-dan",
+      "target": "huadan"
+    },
+    {
+      "source": "dao-ma-dan",
+      "target": "wu-dan"
+    },
+    {
+      "source": "dao-qiang-ba-zi",
+      "target": "kao"
+    },
+    {
+      "source": "dao-qiang-ba-zi",
+      "target": "wuxi"
+    },
+    {
+      "source": "daomadan",
+      "target": "ezi"
+    },
+    {
+      "source": "daomadan",
+      "target": "hangdang"
+    },
+    {
+      "source": "daomadan",
+      "target": "huadan"
+    },
+    {
+      "source": "daomadan",
+      "target": "kao"
+    },
+    {
+      "source": "daomadan",
+      "target": "kaoqi"
+    },
+    {
+      "source": "daomadan",
+      "target": "lingzi"
+    },
+    {
+      "source": "daomadan",
+      "target": "mu-guiying"
+    },
+    {
+      "source": "daomadan",
+      "target": "mu-guiying-gua-shuai"
+    },
+    {
+      "source": "daomadan",
+      "target": "mu-guiying-takes-command"
+    },
+    {
+      "source": "daomadan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "daomadan",
+      "target": "seven-star-ezi"
+    },
+    {
+      "source": "daomadan",
+      "target": "toumian"
+    },
+    {
+      "source": "daomadan",
+      "target": "wudan"
+    },
+    {
+      "source": "daomadan",
+      "target": "yang-family-generals"
+    },
+    {
+      "source": "diancui",
+      "target": "ezi"
+    },
+    {
+      "source": "diancui",
+      "target": "feng-guan"
+    },
+    {
+      "source": "diancui",
+      "target": "fuma-taochi"
+    },
+    {
+      "source": "diancui",
+      "target": "hou-mao"
+    },
+    {
+      "source": "diancui",
+      "target": "huadan"
+    },
+    {
+      "source": "diancui",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "diancui",
+      "target": "laodan"
+    },
+    {
+      "source": "diancui",
+      "target": "liusu"
+    },
+    {
+      "source": "diancui",
+      "target": "peking-opera"
+    },
+    {
+      "source": "diancui",
+      "target": "ping-tian-guan"
+    },
+    {
+      "source": "diancui",
+      "target": "seven-star-ezi"
+    },
+    {
+      "source": "diancui",
+      "target": "toumian"
+    },
+    {
+      "source": "diancui",
+      "target": "xiang-diao"
+    },
+    {
+      "source": "diancui",
+      "target": "yue-opera"
+    },
+    {
+      "source": "diancui",
+      "target": "zijin-guan"
+    },
+    {
+      "source": "digital-backdrop",
+      "target": "mu-guiying-takes-command"
+    },
+    {
+      "source": "digital-backdrop",
+      "target": "peking-opera"
+    },
+    {
+      "source": "digital-backdrop",
+      "target": "projection-mapping"
+    },
+    {
+      "source": "digital-backdrop",
+      "target": "scenography"
+    },
+    {
+      "source": "dingjun-mountain",
+      "target": "peking-opera"
+    },
+    {
+      "source": "doufu-kuai",
+      "target": "jing"
+    },
+    {
+      "source": "doufu-kuai",
+      "target": "lianpu"
+    },
+    {
+      "source": "doufu-kuai",
+      "target": "wuchou"
+    },
+    {
+      "source": "doufu-kuai",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "doupeng",
+      "target": "huadan"
+    },
+    {
+      "source": "doupeng",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "doupeng",
+      "target": "yue-opera"
+    },
+    {
+      "source": "dream-of-the-red-chamber",
+      "target": "peking-opera"
+    },
+    {
+      "source": "dream-of-the-red-chamber",
+      "target": "wang-xifeng"
+    },
+    {
+      "source": "dream-of-the-red-chamber",
+      "target": "yue-opera"
+    },
+    {
+      "source": "du-liniang",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "du-liniang",
+      "target": "liu-mengmei"
+    },
+    {
+      "source": "du-liniang",
+      "target": "peking-opera"
+    },
+    {
+      "source": "du-liniang",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "du-liniang",
+      "target": "yue-opera"
+    },
+    {
+      "source": "duan-da",
+      "target": "wuchou"
+    },
+    {
+      "source": "duan-da",
+      "target": "wusheng"
+    },
+    {
+      "source": "eight-treasures-soup",
+      "target": "peking-opera"
+    },
+    {
+      "source": "fen-zhuang",
+      "target": "junban"
+    },
+    {
+      "source": "fen-zhuang",
+      "target": "lianpu"
+    },
+    {
+      "source": "fen-zhuang",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "feng-guan",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "feng-guan",
+      "target": "the-palace-of-eternal-life"
+    },
+    {
+      "source": "feng-suzhen",
+      "target": "huangmei-opera"
+    },
+    {
+      "source": "feng-suzhen",
+      "target": "peking-opera"
+    },
+    {
+      "source": "feng-suzhen",
+      "target": "the-female-son-in-law"
+    },
+    {
+      "source": "feng-suzhen",
+      "target": "wushama"
+    },
+    {
+      "source": "feng-suzhen",
+      "target": "yueju"
+    },
+    {
+      "source": "fengguan",
+      "target": "lingzi"
+    },
+    {
+      "source": "fengguan",
+      "target": "liusu"
+    },
+    {
+      "source": "fengguan",
+      "target": "mang"
+    },
+    {
+      "source": "fenyang-hat",
+      "target": "jing"
+    },
+    {
+      "source": "fox-tail",
+      "target": "huadan"
+    },
+    {
+      "source": "fox-tail",
+      "target": "qimo"
+    },
+    {
+      "source": "fox-tail",
+      "target": "wudan"
+    },
+    {
+      "source": "fuma-taochi",
+      "target": "peking-opera"
+    },
+    {
+      "source": "fuma-taochi",
+      "target": "sha-mao"
+    },
+    {
+      "source": "gobo-effects",
+      "target": "scenography"
+    },
+    {
+      "source": "gobo-effects",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "gobo-effects",
+      "target": "stage-lighting-design"
+    },
+    {
+      "source": "gobo-effects",
+      "target": "yue-opera"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "projection-mapping"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "scenography"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "spotlight"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "gong-jin-pao",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "gongshou",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "gongshou",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "gongshou",
+      "target": "yueju"
+    },
+    {
+      "source": "goulan",
+      "target": "water-stage"
+    },
+    {
+      "source": "gua-hua",
+      "target": "huadan"
+    },
+    {
+      "source": "gua-hua",
+      "target": "qinqiang-opera"
+    },
+    {
+      "source": "gua-hua",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "gua-hua",
+      "target": "ye-hanzhi"
+    },
+    {
+      "source": "guan-yu",
+      "target": "lianpu"
+    },
+    {
+      "source": "guan-yu",
+      "target": "peking-opera"
+    },
+    {
+      "source": "guan-yu",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "new-liu-sanjie"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "peking-opera"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "projection-mapping"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "qi-bu-yin"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "seven-steps-chant"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "shi-yu-zhuo"
+    },
+    {
+      "source": "guangxi-opera",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "gui-opera",
+      "target": "peking-opera"
+    },
+    {
+      "source": "gui-opera",
+      "target": "seven-steps-chant"
+    },
+    {
+      "source": "hall-of-mingying-wang",
+      "target": "zaju"
+    },
+    {
+      "source": "hangdang",
+      "target": "lianpu"
+    },
+    {
+      "source": "hangdang",
+      "target": "mabian"
+    },
+    {
+      "source": "hangdang",
+      "target": "peking-opera"
+    },
+    {
+      "source": "hangdang",
+      "target": "wu-dan"
+    },
+    {
+      "source": "hangdang",
+      "target": "wuchou"
+    },
+    {
+      "source": "hangdang",
+      "target": "wudan"
+    },
+    {
+      "source": "hangdang",
+      "target": "wusheng"
+    },
+    {
+      "source": "hangdang",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "hangdang",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "hou-mao",
+      "target": "lingzi"
+    },
+    {
+      "source": "hou-mao",
+      "target": "mangpao"
+    },
+    {
+      "source": "houdixue",
+      "target": "jing"
+    },
+    {
+      "source": "houdixue",
+      "target": "jing-role"
+    },
+    {
+      "source": "houdixue",
+      "target": "peking-opera"
+    },
+    {
+      "source": "houdixue",
+      "target": "sheng"
+    },
+    {
+      "source": "hua-dan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "huadan",
+      "target": "laodan"
+    },
+    {
+      "source": "huadan",
+      "target": "liusu"
+    },
+    {
+      "source": "huadan",
+      "target": "picking-up-the-jade-bracelet"
+    },
+    {
+      "source": "huadan",
+      "target": "qing-yi"
+    },
+    {
+      "source": "huadan",
+      "target": "shi-yu-zhuo"
+    },
+    {
+      "source": "huadan",
+      "target": "shuixiu"
+    },
+    {
+      "source": "huadan",
+      "target": "sun-yujiao"
+    },
+    {
+      "source": "huadan",
+      "target": "toumian"
+    },
+    {
+      "source": "huadan",
+      "target": "wudan"
+    },
+    {
+      "source": "huadan",
+      "target": "ye-hanzhi"
+    },
+    {
+      "source": "huadan",
+      "target": "zhezixi"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "jing"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "liang-shanbo"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "liang-zhu"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "lianpu"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "luo-pa-ji"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "mu-guiying-gua-shuai"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "mu-ying"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "painted-backdrop"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "peking-opera"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "shuixiu"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "the-female-son-in-law"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "wushama"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "yu-tianxian"
+    },
+    {
+      "source": "huangmei-opera",
+      "target": "yue-opera"
+    },
+    {
+      "source": "huxinjing",
+      "target": "kao"
+    },
+    {
+      "source": "huxinjing",
+      "target": "mangpao"
+    },
+    {
+      "source": "huxinjing",
+      "target": "wujing"
+    },
+    {
+      "source": "huxinjing",
+      "target": "wusheng"
+    },
+    {
+      "source": "jing",
+      "target": "kunqu-opera"
+    },
+    {
+      "source": "jing",
+      "target": "laodan"
+    },
+    {
+      "source": "jing",
+      "target": "lianpu"
+    },
+    {
+      "source": "jing",
+      "target": "lingzi"
+    },
+    {
+      "source": "jing",
+      "target": "man-ran"
+    },
+    {
+      "source": "jing",
+      "target": "man-rankou"
+    },
+    {
+      "source": "jing",
+      "target": "orchid-finger"
+    },
+    {
+      "source": "jing",
+      "target": "pang-ao"
+    },
+    {
+      "source": "jing",
+      "target": "peking-opera"
+    },
+    {
+      "source": "jing",
+      "target": "ran-kou"
+    },
+    {
+      "source": "jing-role",
+      "target": "lianpu"
+    },
+    {
+      "source": "jing-role",
+      "target": "peking-opera"
+    },
+    {
+      "source": "jing-role",
+      "target": "rankou"
+    },
+    {
+      "source": "jing-role",
+      "target": "sheng-role"
+    },
+    {
+      "source": "jing",
+      "target": "sheng"
+    },
+    {
+      "source": "jing",
+      "target": "sheng-role"
+    },
+    {
+      "source": "jing",
+      "target": "wusheng"
+    },
+    {
+      "source": "jing",
+      "target": "xiao-hualian"
+    },
+    {
+      "source": "jing",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "jing",
+      "target": "zai-xiang"
+    },
+    {
+      "source": "journey-to-the-west",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "journey-to-the-west",
+      "target": "princess-iron-fan"
+    },
+    {
+      "source": "junban",
+      "target": "kao"
+    },
+    {
+      "source": "junban",
+      "target": "lianpu"
+    },
+    {
+      "source": "junban",
+      "target": "sheng"
+    },
+    {
+      "source": "junban",
+      "target": "sheng-role"
+    },
+    {
+      "source": "junban",
+      "target": "xuezi"
+    },
+    {
+      "source": "kao",
+      "target": "kaoqi"
+    },
+    {
+      "source": "kao",
+      "target": "lingzi"
+    },
+    {
+      "source": "kao",
+      "target": "luandai"
+    },
+    {
+      "source": "kao",
+      "target": "mang-robe"
+    },
+    {
+      "source": "kao",
+      "target": "mangpao"
+    },
+    {
+      "source": "kao",
+      "target": "nv-mang"
+    },
+    {
+      "source": "kao",
+      "target": "pang-ao"
+    },
+    {
+      "source": "kao",
+      "target": "taozi"
+    },
+    {
+      "source": "kao",
+      "target": "wusheng"
+    },
+    {
+      "source": "kao",
+      "target": "zijin-guan"
+    },
+    {
+      "source": "kaoqi",
+      "target": "liangxiang"
+    },
+    {
+      "source": "kaoqi",
+      "target": "peking-opera"
+    },
+    {
+      "source": "kaoqi",
+      "target": "wudan"
+    },
+    {
+      "source": "kaoqi",
+      "target": "wusheng"
+    },
+    {
+      "source": "kuai-xue",
+      "target": "wudan"
+    },
+    {
+      "source": "kuai-xue",
+      "target": "wusheng"
+    },
+    {
+      "source": "kuai-yi",
+      "target": "peking-opera"
+    },
+    {
+      "source": "kuai-yi",
+      "target": "wuchou"
+    },
+    {
+      "source": "kuai-yi",
+      "target": "wusheng"
+    },
+    {
+      "source": "kui",
+      "target": "lingzi"
+    },
+    {
+      "source": "kui",
+      "target": "wusheng"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "lighting-design"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "liu-mengmei"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "man-rankou"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "man-ting-fang"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "mudan-ting"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "one-table-two-chairs"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "qinqiang-opera"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "red-cliff"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "shanshui"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "sheng"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "sheng-role"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "shuixiu"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "stage-design-script"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "stage-lighting-design"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "su-opera"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "the-lions-roar"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "the-palace-of-eternal-life"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "the-peach-blossom-fan"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "the-tale-of-the-pipa"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "wandering-in-the-garden-waking-from-a-dream"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "wuju-opera"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "wusheng"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "wuxi"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "yue-opera"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "yueju"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "zhezixi"
+    },
+    {
+      "source": "kunqu-opera",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "lady-of-qiaoguo",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "lady-of-qiaoguo",
+      "target": "scenography"
+    },
+    {
+      "source": "lady-of-qiaoguo",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "man-ran"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "peking-opera"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "rankou"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "sha-mao"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "lao-sheng",
+      "target": "zai-xiang"
+    },
+    {
+      "source": "laodan",
+      "target": "liusu"
+    },
+    {
+      "source": "laodan",
+      "target": "mang"
+    },
+    {
+      "source": "laodan",
+      "target": "peking-opera"
+    },
+    {
+      "source": "laodan",
+      "target": "sheng"
+    },
+    {
+      "source": "laodan",
+      "target": "wudan"
+    },
+    {
+      "source": "laosheng",
+      "target": "man-rankou"
+    },
+    {
+      "source": "laosheng",
+      "target": "mangpao"
+    },
+    {
+      "source": "laosheng",
+      "target": "peking-opera"
+    },
+    {
+      "source": "laosheng",
+      "target": "ping-tian-guan"
+    },
+    {
+      "source": "laosheng",
+      "target": "rankou"
+    },
+    {
+      "source": "laosheng",
+      "target": "sheng"
+    },
+    {
+      "source": "laosheng",
+      "target": "wujiapo"
+    },
+    {
+      "source": "laosheng",
+      "target": "wusheng"
+    },
+    {
+      "source": "laosheng",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "laosheng",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "laosheng",
+      "target": "xuezi"
+    },
+    {
+      "source": "laosheng",
+      "target": "yudai"
+    },
+    {
+      "source": "laosheng",
+      "target": "zhan-chi"
+    },
+    {
+      "source": "liang-shanbo",
+      "target": "liang-zhu"
+    },
+    {
+      "source": "liang-shanbo",
+      "target": "peking-opera"
+    },
+    {
+      "source": "liang-shanbo",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "liang-shanbo",
+      "target": "yue-opera"
+    },
+    {
+      "source": "liang-shanbo",
+      "target": "zhu-yingtai"
+    },
+    {
+      "source": "liang-zhu",
+      "target": "yue-opera"
+    },
+    {
+      "source": "liang-zhu",
+      "target": "zhu-yingtai"
+    },
+    {
+      "source": "liangxiang",
+      "target": "peking-opera"
+    },
+    {
+      "source": "liangxiang",
+      "target": "yangbanxi"
+    },
+    {
+      "source": "lianpu",
+      "target": "peking-opera"
+    },
+    {
+      "source": "lianpu",
+      "target": "ran-kou"
+    },
+    {
+      "source": "lianpu",
+      "target": "rankou"
+    },
+    {
+      "source": "lianpu",
+      "target": "sheng-role"
+    },
+    {
+      "source": "lianpu",
+      "target": "wen-chou"
+    },
+    {
+      "source": "lianpu",
+      "target": "wuchou"
+    },
+    {
+      "source": "lianpu",
+      "target": "wujing"
+    },
+    {
+      "source": "lianpu",
+      "target": "wusheng"
+    },
+    {
+      "source": "lianpu",
+      "target": "xiao-hualian"
+    },
+    {
+      "source": "lianpu",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "lianpu",
+      "target": "zai-xiang"
+    },
+    {
+      "source": "lighting-design",
+      "target": "peking-opera"
+    },
+    {
+      "source": "lighting-design",
+      "target": "scenography"
+    },
+    {
+      "source": "lighting-design",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "lighting-design",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "lingzi",
+      "target": "seven-star-ezi"
+    },
+    {
+      "source": "lingzi",
+      "target": "shuai-kui"
+    },
+    {
+      "source": "lingzi",
+      "target": "wuchou"
+    },
+    {
+      "source": "lingzi",
+      "target": "wudan"
+    },
+    {
+      "source": "lingzi",
+      "target": "wusheng"
+    },
+    {
+      "source": "liu-lihua",
+      "target": "peking-opera"
+    },
+    {
+      "source": "liu-lihua",
+      "target": "wuchou"
+    },
+    {
+      "source": "liu-mengmei",
+      "target": "peking-opera"
+    },
+    {
+      "source": "liu-mengmei",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "liu-mengmei",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "low-key-lighting",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "low-key-lighting",
+      "target": "wuju-opera"
+    },
+    {
+      "source": "luandai",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "luandai",
+      "target": "wudan"
+    },
+    {
+      "source": "luandai",
+      "target": "wusheng"
+    },
+    {
+      "source": "ma-bian",
+      "target": "peking-opera"
+    },
+    {
+      "source": "ma-bian",
+      "target": "qimo"
+    },
+    {
+      "source": "ma-bian",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "mabian",
+      "target": "qimo"
+    },
+    {
+      "source": "mabian",
+      "target": "shuai-kui"
+    },
+    {
+      "source": "man-ran",
+      "target": "rankou"
+    },
+    {
+      "source": "man-rankou",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mang",
+      "target": "rankou"
+    },
+    {
+      "source": "mang-robe",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "mang-robe",
+      "target": "yunjian"
+    },
+    {
+      "source": "mang",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "mangpao",
+      "target": "pang-ao"
+    },
+    {
+      "source": "mangpao",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mangpao",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "mangpao",
+      "target": "yunjian"
+    },
+    {
+      "source": "maquette",
+      "target": "scenography"
+    },
+    {
+      "source": "maquette",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "maquette",
+      "target": "yue-opera"
+    },
+    {
+      "source": "mei-lanfang-growing-a-beard",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "mei-lanfang-growing-a-beard",
+      "target": "peking-opera"
+    },
+    {
+      "source": "model-operas",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mu-guiying-gua-shuai",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mu-guiying-gua-shuai",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "mu-guiying-gua-shuai",
+      "target": "yang-family-generals"
+    },
+    {
+      "source": "mu-guiying",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mu-guiying-takes-command",
+      "target": "peking-opera"
+    },
+    {
+      "source": "mu-guiying",
+      "target": "yang-family-generals"
+    },
+    {
+      "source": "mu-ying",
+      "target": "peking-opera"
+    },
+    {
+      "source": "national-essence-culture-week",
+      "target": "opera-intelligent-agent"
+    },
+    {
+      "source": "national-essence-culture-week",
+      "target": "peking-opera"
+    },
+    {
+      "source": "new-chinese-style",
+      "target": "shanshui"
+    },
+    {
+      "source": "new-chinese-style",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "new-chinese-style",
+      "target": "the-peach-blossom-fan"
+    },
+    {
+      "source": "new-chinese-style",
+      "target": "yueju"
+    },
+    {
+      "source": "new-liu-sanjie",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "nv-mang",
+      "target": "peking-opera"
+    },
+    {
+      "source": "nv-mang",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "one-table-two-chairs",
+      "target": "peking-opera"
+    },
+    {
+      "source": "one-table-two-chairs",
+      "target": "qiyi"
+    },
+    {
+      "source": "one-table-two-chairs",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "projection-mapping"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "red-cliffs"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "shanshui"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "shi-jie-ting-kong-cheng-ji-zhan-ma-su"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "the-lions-roar"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "the-palace-of-eternal-life"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "the-peach-blossom-fan"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "xiang-nong"
+    },
+    {
+      "source": "opera-intelligent-agent",
+      "target": "yu-tianxian"
+    },
+    {
+      "source": "orchid-finger",
+      "target": "peking-opera"
+    },
+    {
+      "source": "orchid-finger",
+      "target": "sheng"
+    },
+    {
+      "source": "orchid-finger",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "painted-backdrop",
+      "target": "projection-mapping"
+    },
+    {
+      "source": "pang-ao",
+      "target": "peking-opera"
+    },
+    {
+      "source": "pang-ao",
+      "target": "wusheng"
+    },
+    {
+      "source": "peking-opera",
+      "target": "picking-up-the-jade-bracelet"
+    },
+    {
+      "source": "peking-opera",
+      "target": "qing-yi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "qinqiang-opera"
+    },
+    {
+      "source": "peking-opera",
+      "target": "rankou"
+    },
+    {
+      "source": "peking-opera",
+      "target": "red-cliff"
+    },
+    {
+      "source": "peking-opera",
+      "target": "red-cliffs"
+    },
+    {
+      "source": "peking-opera",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "peking-opera",
+      "target": "seven-steps-chant"
+    },
+    {
+      "source": "peking-opera",
+      "target": "sheng"
+    },
+    {
+      "source": "peking-opera",
+      "target": "sheng-role"
+    },
+    {
+      "source": "peking-opera",
+      "target": "shi-jie-ting-kong-cheng-ji-zhan-ma-su"
+    },
+    {
+      "source": "peking-opera",
+      "target": "shi-yu-zhuo"
+    },
+    {
+      "source": "peking-opera",
+      "target": "shuai-kui"
+    },
+    {
+      "source": "peking-opera",
+      "target": "shuixiu"
+    },
+    {
+      "source": "peking-opera",
+      "target": "sun-yujiao"
+    },
+    {
+      "source": "peking-opera",
+      "target": "the-crossroads"
+    },
+    {
+      "source": "peking-opera",
+      "target": "the-gathering-of-heroes"
+    },
+    {
+      "source": "peking-opera",
+      "target": "the-red-mane-horse"
+    },
+    {
+      "source": "peking-opera",
+      "target": "toumian"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wang-baochuan"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wang-xifeng"
+    },
+    {
+      "source": "peking-opera",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wen-chou"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wu-jia-po"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wuchou"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wudan"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wujiapo"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wujing"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wuju-opera"
+    },
+    {
+      "source": "peking-opera",
+      "target": "wusheng"
+    },
+    {
+      "source": "peking-opera",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "peking-opera",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "peking-opera",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "peking-opera",
+      "target": "xuezi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yang-family-generals"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yangbanxi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "ye-hanzhi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yi-zhuo-er-yi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yue-opera"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yueju"
+    },
+    {
+      "source": "peking-opera",
+      "target": "yunjian"
+    },
+    {
+      "source": "peking-opera",
+      "target": "zhezixi"
+    },
+    {
+      "source": "peking-opera",
+      "target": "zijin-guan"
+    },
+    {
+      "source": "pianzi",
+      "target": "toumian"
+    },
+    {
+      "source": "pianzi",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "picking-up-the-jade-bracelet",
+      "target": "zhezixi"
+    },
+    {
+      "source": "ping-tian-guan",
+      "target": "sheng"
+    },
+    {
+      "source": "projection-mapping",
+      "target": "red-cliff"
+    },
+    {
+      "source": "projection-mapping",
+      "target": "seven-steps-chant"
+    },
+    {
+      "source": "projection-mapping",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "projection-mapping",
+      "target": "yueju"
+    },
+    {
+      "source": "qi-bu-yin",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "qing-yi",
+      "target": "shuixiu"
+    },
+    {
+      "source": "qing-yi",
+      "target": "wang-baochuan"
+    },
+    {
+      "source": "qing-yi",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "qinqiang-opera",
+      "target": "wu-jia-po"
+    },
+    {
+      "source": "qiyi",
+      "target": "scenography"
+    },
+    {
+      "source": "qiyi",
+      "target": "wujiapo"
+    },
+    {
+      "source": "ran-kou",
+      "target": "sheng"
+    },
+    {
+      "source": "rankou",
+      "target": "sheng-role"
+    },
+    {
+      "source": "rankou",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "red-cliff",
+      "target": "romance-of-the-three-kingdoms"
+    },
+    {
+      "source": "red-cliff",
+      "target": "scenography"
+    },
+    {
+      "source": "red-cliffs",
+      "target": "scenography"
+    },
+    {
+      "source": "romance-of-the-three-kingdoms",
+      "target": "shi-jie-ting-kong-cheng-ji-zhan-ma-su"
+    },
+    {
+      "source": "romance-of-the-three-kingdoms",
+      "target": "the-gathering-of-heroes"
+    },
+    {
+      "source": "scenography",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "scenography",
+      "target": "stage-lighting-design"
+    },
+    {
+      "source": "scenography",
+      "target": "the-lions-roar"
+    },
+    {
+      "source": "seven-steps-chant",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "shanshui",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "shanshui",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "shanshui",
+      "target": "yueju"
+    },
+    {
+      "source": "sheng",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "sheng",
+      "target": "wusheng"
+    },
+    {
+      "source": "sheng",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "shi-yu-zhuo",
+      "target": "sun-yujiao"
+    },
+    {
+      "source": "shi-yu-zhuo",
+      "target": "zhezixi"
+    },
+    {
+      "source": "shoujiu",
+      "target": "yi-zhuo-er-yi"
+    },
+    {
+      "source": "shuixiu",
+      "target": "yueju"
+    },
+    {
+      "source": "spotlight",
+      "target": "stage-lighting"
+    },
+    {
+      "source": "stage-lighting-design",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "stage-lighting-design",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "the-lions-roar"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "the-peach-blossom-fan"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "the-peony-pavilion"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "wandering-in-the-garden-waking-from-a-dream"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "xiang-nong"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "yu-tianxian"
+    },
+    {
+      "source": "stage-lighting",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "sun-yujiao",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "taozi",
+      "target": "wusheng"
+    },
+    {
+      "source": "the-crossroads",
+      "target": "wuchou"
+    },
+    {
+      "source": "the-crossroads",
+      "target": "wusheng"
+    },
+    {
+      "source": "the-crossroads",
+      "target": "yueju"
+    },
+    {
+      "source": "the-crossroads",
+      "target": "zhezixi"
+    },
+    {
+      "source": "the-jade-hairpin",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "the-jade-hairpin",
+      "target": "yue-opera"
+    },
+    {
+      "source": "the-lions-roar",
+      "target": "yue-opera"
+    },
+    {
+      "source": "the-palace-of-eternal-life",
+      "target": "the-peach-blossom-fan"
+    },
+    {
+      "source": "the-peach-blossom-fan",
+      "target": "yueju"
+    },
+    {
+      "source": "the-peony-pavilion",
+      "target": "wandering-in-the-garden-waking-from-a-dream"
+    },
+    {
+      "source": "the-peony-pavilion",
+      "target": "zhou-zhengping"
+    },
+    {
+      "source": "the-red-mane-horse",
+      "target": "wang-baochuan"
+    },
+    {
+      "source": "the-red-mane-horse",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "the-tale-of-the-pipa",
+      "target": "xianzhuang"
+    },
+    {
+      "source": "toumian",
+      "target": "water-sleeves"
+    },
+    {
+      "source": "wang-baochuan",
+      "target": "wu-jia-po"
+    },
+    {
+      "source": "wang-baochuan",
+      "target": "wujiapo"
+    },
+    {
+      "source": "wang-baochuan",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "wang-xifeng",
+      "target": "yue-opera"
+    },
+    {
+      "source": "wang-xifeng",
+      "target": "yueju"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "wen-chou"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "xuezi"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "yudai"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "yue-opera"
+    },
+    {
+      "source": "water-sleeves",
+      "target": "yunjian"
+    },
+    {
+      "source": "wen-chou",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "wu-dan",
+      "target": "wusheng"
+    },
+    {
+      "source": "wu-jia-po",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "wuchou",
+      "target": "wusheng"
+    },
+    {
+      "source": "wuchou",
+      "target": "xiao-hualian"
+    },
+    {
+      "source": "wuchou",
+      "target": "xiaohualian"
+    },
+    {
+      "source": "wudan",
+      "target": "wusheng"
+    },
+    {
+      "source": "wujiapo",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "wujing",
+      "target": "wusheng"
+    },
+    {
+      "source": "wushama",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "wusheng",
+      "target": "xiaosheng"
+    },
+    {
+      "source": "wusheng",
+      "target": "xue-pinggui"
+    },
+    {
+      "source": "wusheng",
+      "target": "zijin-guan"
+    },
+    {
+      "source": "xiang-diao",
+      "target": "zai-xiang"
+    },
+    {
+      "source": "xiang-diao",
+      "target": "zhan-chi"
+    },
+    {
+      "source": "xiaosheng",
+      "target": "xuezi"
+    },
+    {
+      "source": "xiaosheng",
+      "target": "yue-opera"
+    },
+    {
+      "source": "yuanqu-xuan",
+      "target": "zaju"
+    },
+    {
+      "source": "yuanqu-xuan",
+      "target": "zang-maoxun"
+    },
+    {
+      "source": "yue-opera",
+      "target": "zhu-yingtai"
+    },
+    {
+      "source": "zaju",
+      "target": "zang-maoxun"
+    }
+  ]
+}

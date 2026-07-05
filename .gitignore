@@ -17,6 +17,7 @@ coverage/
 .DS_Store
 *.local
 publish.sh
+publish-agent.sh
 
 # Local environment secrets
 .env
